@@ -1,0 +1,21 @@
+lead_id,source,course_interest,email_opened,clicked_ad,income_level1,education_level,location_tier,days_to_followup,Summaryofconversation
+2001,Website,AI,1,1,High,Masters,Tier 1,7,Not interested
+2002,Email Campaign,Cloud Computing,1,1,High,PhD,Tier 3,11,Mildly interested
+2003,Referral,MBA,1,1,Low,PhD,Tier 3,3,Just exploring
+2004,Email Campaign,Data Science,1,0,High,Bachelors,Tier 2,6,Not interested
+2005,Email Campaign,Data Science,0,0,High,Masters,Tier 2,12,Very interested
+2006,Google Ads,Web Development,1,0,Low,Masters,Tier 1,2,Just exploring
+2007,Referral,Web Development,1,0,High,High School,Tier 3,10,Mildly interested
+2008,Referral,AI,0,0,Low,Masters,Tier 3,13,Very interested
+2009,Referral,MBA,1,0,Medium,High School,Tier 3,14,Very interested
+2010,Email Campaign,MBA,0,1,High,Masters,Tier 1,9,Very interested
+2011,Website,Web Development,1,0,Medium,Bachelors,Tier 1,5,Just exploring
+2012,Referral,MBA,0,0,Low,Masters,Tier 2,6,Mildly interested
+2013,Email Campaign,MBA,1,1,High,High School,Tier 1,12,Very interested
+2014,Google Ads,Data Science,1,0,Low,High School,Tier 3,12,Not interested
+2015,Website,Web Development,1,1,Medium,Bachelors,Tier 3,12,Very interested
+2016,Google Ads,Cloud Computing,1,0,Low,Masters,Tier 1,12,Very interested
+2017,Website,Web Development,0,1,High,Masters,Tier 3,4,Just exploring
+2018,Email Campaign,Cloud Computing,1,1,High,Bachelors,Tier 3,14,Just exploring
+2019,Facebook,Data Science,1,0,Medium,Masters,Tier 1,14,Mildly interested
+2020,Website,AI,1,0,Low,Masters,Tier 1,11,Not interested

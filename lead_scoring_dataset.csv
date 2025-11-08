@@ -1,0 +1,1001 @@
+lead_id,source,course_interest,email_opened,clicked_ad,income_level1,education_level,location_tier,days_to_followup,Summaryofconversation,converted,lead_score
+L0001,Referral,MBA,1,0,Medium,Postgraduate,3,12,Mildly interested,0,0.0
+L0002,Instagram,MBA,1,1,Medium,Graduate,2,8,Mildly interested,0,0.0
+L0003,Website,MBA,0,0,Medium,Postgraduate,1,8,Just exploring,0,0.0
+L0004,Instagram,MBA,0,1,High,Undergraduate,2,3,Mildly interested,0,0.5
+L0005,Instagram,Cyber Security,1,1,Medium,Graduate,3,9,Mildly interested,0,0.0
+L0006,Google Ads,Cyber Security,1,0,High,Graduate,2,3,Mildly interested,0,1.5
+L0007,Website,Web Dev,1,1,Medium,Graduate,2,1,Just exploring,0,8.0
+L0008,Website,Data Science,0,1,Medium,Postgraduate,1,2,Very interested,0,1.0
+L0009,Website,MBA,1,0,Medium,Undergraduate,2,6,Just exploring,0,0.0
+L0010,Instagram,Web Dev,1,1,Medium,Undergraduate,2,12,Mildly interested,0,0.5
+L0011,Referral,Data Science,1,0,Low,Graduate,3,10,Very interested,0,0.0
+L0012,Website,AI,1,1,Low,Graduate,2,2,Very interested,0,4.0
+L0013,Instagram,Cyber Security,1,1,High,Graduate,2,6,Mildly interested,1,82.5
+L0014,Google Ads,Data Science,1,1,Low,Undergraduate,2,14,Just exploring,0,0.0
+L0015,Referral,AI,0,1,Medium,Graduate,1,1,Mildly interested,0,1.0
+L0016,Google Ads,Data Science,0,1,Medium,Undergraduate,3,11,Just exploring,0,0.0
+L0017,Referral,Cyber Security,1,0,Medium,Graduate,2,13,Very interested,0,0.0
+L0018,Instagram,Cyber Security,1,1,Medium,Graduate,2,1,Mildly interested,1,98.5
+L0019,Facebook,Web Dev,0,0,Low,Graduate,2,5,Not interested,0,0.0
+L0020,Referral,MBA,0,0,Medium,Undergraduate,2,10,Just exploring,0,0.0
+L0021,Google Ads,Data Science,0,0,Medium,Graduate,2,13,Very interested,0,0.0
+L0022,Instagram,Data Science,1,0,Medium,Undergraduate,2,11,Mildly interested,0,0.0
+L0023,Referral,AI,0,1,Low,Undergraduate,1,9,Very interested,0,0.0
+L0024,Facebook,Cyber Security,0,0,Medium,Graduate,2,14,Mildly interested,0,0.0
+L0025,Facebook,Data Science,0,1,Low,Postgraduate,1,8,Just exploring,0,0.0
+L0026,Website,Cyber Security,0,0,Low,Undergraduate,2,3,Just exploring,0,0.0
+L0027,Website,Data Science,0,0,Low,Graduate,1,3,Very interested,0,0.0
+L0028,Google Ads,Web Dev,1,1,Low,Postgraduate,2,1,Not interested,0,7.5
+L0029,Referral,MBA,0,0,High,Postgraduate,3,14,Mildly interested,0,0.0
+L0030,Referral,Data Science,1,0,Low,Undergraduate,3,3,Mildly interested,0,0.0
+L0031,Website,Cyber Security,0,1,High,Postgraduate,2,14,Mildly interested,0,1.0
+L0032,Referral,Web Dev,1,0,High,Undergraduate,2,12,Mildly interested,0,0.0
+L0033,Referral,Data Science,1,1,Medium,Undergraduate,1,12,Mildly interested,0,0.0
+L0034,Facebook,AI,1,0,Low,Undergraduate,2,12,Mildly interested,0,0.0
+L0035,Website,MBA,1,0,Medium,Graduate,3,13,Mildly interested,0,0.0
+L0036,Instagram,Data Science,0,1,Medium,Undergraduate,1,11,Very interested,0,0.0
+L0037,Website,Web Dev,0,0,Medium,Undergraduate,2,1,Just exploring,0,0.0
+L0038,Instagram,AI,1,0,Low,Undergraduate,3,8,Mildly interested,0,0.0
+L0039,Facebook,Web Dev,1,0,Medium,Postgraduate,3,1,Very interested,0,1.0
+L0040,Google Ads,Web Dev,1,0,High,Postgraduate,1,5,Just exploring,0,0.5
+L0041,Referral,AI,1,1,Medium,Undergraduate,2,9,Not interested,0,1.0
+L0042,Facebook,Web Dev,1,0,Low,Postgraduate,1,7,Not interested,0,0.0
+L0043,Referral,AI,1,1,Medium,Postgraduate,1,4,Mildly interested,1,87.5
+L0044,Google Ads,Data Science,0,1,Low,Graduate,3,11,Very interested,0,0.0
+L0045,Google Ads,AI,1,0,Low,Undergraduate,3,9,Mildly interested,0,0.0
+L0046,Facebook,AI,1,1,High,Graduate,2,9,Very interested,0,0.0
+L0047,Google Ads,MBA,0,0,Low,Postgraduate,1,2,Not interested,0,0.0
+L0048,Instagram,AI,1,1,Low,Graduate,3,10,Very interested,0,0.5
+L0049,Google Ads,AI,0,0,Low,Undergraduate,2,10,Very interested,0,0.0
+L0050,Referral,Data Science,1,1,High,Graduate,2,11,Mildly interested,0,0.5
+L0051,Referral,MBA,0,0,Medium,Graduate,2,12,Mildly interested,0,0.0
+L0052,Referral,Cyber Security,1,0,Medium,Graduate,1,6,Just exploring,0,0.0
+L0053,Referral,Data Science,1,1,Medium,Undergraduate,2,4,Mildly interested,1,88.0
+L0054,Instagram,Data Science,0,1,Low,Undergraduate,2,8,Very interested,0,0.0
+L0055,Website,Cyber Security,1,0,Medium,Postgraduate,1,12,Very interested,0,0.0
+L0056,Facebook,AI,1,0,Medium,Postgraduate,1,11,Mildly interested,0,0.0
+L0057,Referral,Web Dev,1,1,Low,Undergraduate,1,7,Very interested,0,1.0
+L0058,Google Ads,MBA,0,1,Medium,Postgraduate,1,7,Mildly interested,0,0.5
+L0059,Referral,Web Dev,0,1,High,Undergraduate,2,11,Mildly interested,0,0.0
+L0060,Google Ads,Cyber Security,0,1,Low,Graduate,3,10,Just exploring,0,0.0
+L0061,Google Ads,Data Science,1,1,Low,Graduate,1,9,Not interested,0,0.0
+L0062,Referral,Data Science,1,1,Low,Postgraduate,1,13,Not interested,0,0.0
+L0063,Instagram,MBA,1,0,Low,Postgraduate,2,5,Not interested,0,0.0
+L0064,Google Ads,Data Science,1,0,High,Undergraduate,3,6,Very interested,0,6.5
+L0065,Google Ads,Data Science,1,1,Medium,Postgraduate,2,1,Very interested,1,91.5
+L0066,Referral,MBA,1,1,Medium,Undergraduate,2,6,Mildly interested,1,89.0
+L0067,Google Ads,MBA,0,0,Medium,Graduate,2,2,Just exploring,0,0.0
+L0068,Google Ads,Cyber Security,1,0,Low,Graduate,1,6,Not interested,0,0.0
+L0069,Referral,Data Science,0,1,Medium,Graduate,1,9,Just exploring,0,0.0
+L0070,Referral,Data Science,1,1,Medium,Undergraduate,2,8,Very interested,0,0.0
+L0071,Facebook,Cyber Security,1,0,Medium,Postgraduate,2,9,Not interested,0,0.0
+L0072,Instagram,AI,1,0,High,Undergraduate,2,13,Mildly interested,0,0.0
+L0073,Instagram,AI,0,0,Medium,Undergraduate,2,10,Very interested,0,0.0
+L0074,Google Ads,AI,0,0,Medium,Graduate,2,8,Mildly interested,0,0.0
+L0075,Instagram,Cyber Security,0,0,High,Graduate,1,3,Very interested,0,0.5
+L0076,Google Ads,Data Science,0,0,Low,Postgraduate,2,8,Mildly interested,0,0.0
+L0077,Facebook,Cyber Security,0,1,Low,Undergraduate,1,6,Mildly interested,0,2.0
+L0078,Referral,Cyber Security,1,0,Low,Undergraduate,1,13,Mildly interested,0,0.0
+L0079,Referral,AI,1,1,Medium,Postgraduate,2,6,Mildly interested,1,87.0
+L0080,Referral,Web Dev,0,1,Medium,Graduate,3,6,Just exploring,0,2.0
+L0081,Instagram,Data Science,0,0,Medium,Undergraduate,3,3,Mildly interested,0,0.0
+L0082,Facebook,AI,1,1,High,Graduate,2,10,Mildly interested,0,1.0
+L0083,Instagram,Web Dev,1,0,Medium,Graduate,1,1,Just exploring,0,0.5
+L0084,Instagram,Web Dev,1,1,Medium,Graduate,1,12,Not interested,0,0.0
+L0085,Facebook,MBA,1,0,Low,Graduate,3,14,Very interested,0,0.0
+L0086,Facebook,Data Science,1,1,Low,Postgraduate,2,4,Mildly interested,0,1.0
+L0087,Facebook,Web Dev,1,1,Medium,Postgraduate,2,10,Very interested,0,0.5
+L0088,Facebook,AI,1,0,Medium,Graduate,2,12,Very interested,0,0.0
+L0089,Referral,MBA,0,0,High,Undergraduate,2,6,Mildly interested,0,0.0
+L0090,Website,Data Science,1,1,Low,Postgraduate,3,11,Just exploring,0,0.0
+L0091,Website,Cyber Security,0,1,Low,Graduate,1,12,Very interested,0,0.0
+L0092,Facebook,AI,1,0,Medium,Graduate,2,10,Just exploring,0,0.0
+L0093,Website,Web Dev,0,1,Low,Undergraduate,3,2,Just exploring,0,0.5
+L0094,Website,Web Dev,1,0,Low,Postgraduate,1,7,Not interested,0,0.0
+L0095,Facebook,AI,1,1,Medium,Graduate,2,7,Very interested,0,1.5
+L0096,Website,Web Dev,1,0,Low,Undergraduate,2,11,Not interested,0,0.0
+L0097,Instagram,MBA,1,1,Medium,Graduate,3,4,Mildly interested,1,89.0
+L0098,Google Ads,Data Science,0,0,Low,Postgraduate,1,4,Mildly interested,0,0.0
+L0099,Google Ads,MBA,0,0,Low,Undergraduate,2,1,Very interested,0,0.0
+L0100,Facebook,Web Dev,1,0,Medium,Postgraduate,1,13,Very interested,0,0.0
+L0101,Referral,Cyber Security,0,0,High,Graduate,2,2,Just exploring,0,0.0
+L0102,Facebook,Data Science,1,1,Medium,Graduate,1,9,Mildly interested,0,1.5
+L0103,Referral,Data Science,0,0,Medium,Undergraduate,1,10,Very interested,0,0.0
+L0104,Google Ads,AI,1,1,Low,Undergraduate,2,8,Very interested,0,0.0
+L0105,Facebook,AI,1,0,Medium,Postgraduate,3,8,Mildly interested,0,0.0
+L0106,Instagram,Cyber Security,1,0,Low,Undergraduate,1,9,Very interested,0,0.0
+L0107,Website,Data Science,0,0,Medium,Graduate,1,7,Just exploring,0,0.0
+L0108,Referral,Cyber Security,1,0,Medium,Undergraduate,2,13,Very interested,0,0.0
+L0109,Website,AI,1,0,High,Undergraduate,2,9,Very interested,0,0.0
+L0110,Website,AI,1,0,Medium,Undergraduate,3,10,Mildly interested,0,0.0
+L0111,Facebook,Data Science,1,0,Low,Graduate,1,12,Mildly interested,0,0.0
+L0112,Website,MBA,1,0,Low,Postgraduate,2,2,Mildly interested,0,0.0
+L0113,Instagram,Web Dev,0,1,High,Undergraduate,1,6,Mildly interested,0,2.0
+L0114,Website,AI,1,1,Medium,Undergraduate,1,3,Not interested,0,31.0
+L0115,Facebook,AI,0,0,Medium,Undergraduate,2,11,Mildly interested,0,0.0
+L0116,Instagram,MBA,0,0,Low,Graduate,2,6,Very interested,0,0.0
+L0117,Google Ads,MBA,0,1,Medium,Graduate,2,3,Mildly interested,0,1.0
+L0118,Website,Cyber Security,0,1,Low,Postgraduate,2,8,Just exploring,0,0.0
+L0119,Facebook,Cyber Security,0,1,High,Graduate,2,11,Mildly interested,0,0.0
+L0120,Google Ads,Web Dev,0,0,Medium,Graduate,2,13,Very interested,0,0.0
+L0121,Google Ads,Web Dev,1,1,High,Undergraduate,3,4,Just exploring,0,23.5
+L0122,Referral,Data Science,1,1,Low,Postgraduate,1,12,Mildly interested,0,0.0
+L0123,Instagram,Cyber Security,1,1,Medium,Undergraduate,1,10,Mildly interested,0,1.0
+L0124,Website,AI,1,1,Medium,Undergraduate,2,6,Very interested,1,89.0
+L0125,Facebook,Cyber Security,0,0,Medium,Graduate,2,9,Very interested,0,0.0
+L0126,Referral,AI,1,0,High,Graduate,1,2,Mildly interested,0,2.5
+L0127,Instagram,MBA,1,1,High,Graduate,3,2,Very interested,1,78.0
+L0128,Referral,Cyber Security,0,1,High,Graduate,1,7,Mildly interested,0,0.5
+L0129,Instagram,MBA,1,0,Medium,Graduate,3,2,Mildly interested,0,1.0
+L0130,Instagram,Web Dev,0,0,Low,Undergraduate,1,2,Very interested,0,0.0
+L0131,Website,Web Dev,1,0,Low,Postgraduate,2,4,Not interested,0,0.5
+L0132,Instagram,Data Science,1,0,High,Graduate,3,9,Just exploring,0,0.0
+L0133,Referral,Cyber Security,0,1,Low,Graduate,1,8,Just exploring,0,0.0
+L0134,Instagram,MBA,0,1,Medium,Graduate,3,2,Very interested,0,2.0
+L0135,Website,AI,1,0,Medium,Undergraduate,2,8,Very interested,0,0.0
+L0136,Website,Web Dev,1,0,Medium,Graduate,3,4,Mildly interested,0,0.5
+L0137,Referral,Web Dev,0,0,High,Graduate,2,2,Very interested,0,0.0
+L0138,Google Ads,AI,1,0,Medium,Undergraduate,2,11,Not interested,0,0.0
+L0139,Google Ads,MBA,0,1,Medium,Graduate,1,10,Very interested,0,0.0
+L0140,Instagram,MBA,1,1,Low,Postgraduate,2,7,Mildly interested,0,0.5
+L0141,Facebook,Cyber Security,1,1,Medium,Graduate,1,6,Mildly interested,1,89.0
+L0142,Instagram,Cyber Security,0,0,Low,Postgraduate,1,14,Mildly interested,0,0.0
+L0143,Referral,Data Science,0,1,Medium,Undergraduate,1,10,Very interested,0,0.0
+L0144,Referral,Web Dev,0,1,High,Undergraduate,2,5,Mildly interested,0,2.5
+L0145,Referral,Cyber Security,0,1,High,Undergraduate,2,11,Very interested,0,0.5
+L0146,Referral,MBA,0,0,Low,Graduate,1,1,Just exploring,0,0.0
+L0147,Referral,AI,1,0,Medium,Undergraduate,1,2,Very interested,0,0.5
+L0148,Website,MBA,0,0,High,Undergraduate,2,8,Not interested,0,0.0
+L0149,Google Ads,Web Dev,1,0,Low,Postgraduate,1,1,Just exploring,0,0.0
+L0150,Referral,MBA,1,0,Low,Postgraduate,1,3,Very interested,0,0.5
+L0151,Facebook,Data Science,1,0,Low,Graduate,1,2,Just exploring,0,0.0
+L0152,Facebook,Web Dev,1,0,Medium,Undergraduate,3,5,Very interested,0,1.5
+L0153,Facebook,AI,0,1,Low,Undergraduate,3,4,Not interested,0,0.5
+L0154,Facebook,Data Science,1,0,High,Undergraduate,2,13,Mildly interested,0,0.0
+L0155,Website,Web Dev,1,0,Medium,Graduate,2,7,Mildly interested,0,0.0
+L0156,Facebook,AI,1,1,Medium,Postgraduate,2,5,Mildly interested,1,90.5
+L0157,Referral,Data Science,0,1,Low,Graduate,2,8,Very interested,0,0.0
+L0158,Instagram,Data Science,1,1,Medium,Undergraduate,2,4,Not interested,0,33.5
+L0159,Facebook,Web Dev,1,1,Medium,Graduate,2,12,Very interested,0,0.5
+L0160,Website,Cyber Security,0,1,Medium,Undergraduate,1,6,Mildly interested,0,1.0
+L0161,Website,Data Science,0,1,Medium,Undergraduate,1,4,Mildly interested,0,1.5
+L0162,Facebook,Data Science,1,0,Medium,Graduate,2,2,Not interested,0,1.0
+L0163,Instagram,AI,1,0,High,Graduate,3,1,Very interested,0,0.5
+L0164,Facebook,MBA,1,0,High,Undergraduate,2,14,Mildly interested,0,0.0
+L0165,Website,Web Dev,1,0,Medium,Undergraduate,3,14,Mildly interested,0,0.0
+L0166,Google Ads,Web Dev,0,0,Low,Postgraduate,3,1,Just exploring,0,0.0
+L0167,Referral,Cyber Security,1,1,Low,Undergraduate,1,8,Very interested,0,0.0
+L0168,Website,Cyber Security,1,1,Low,Undergraduate,2,14,Very interested,0,0.0
+L0169,Facebook,Web Dev,0,1,Medium,Undergraduate,2,4,Very interested,0,4.5
+L0170,Referral,Cyber Security,0,0,Medium,Undergraduate,3,5,Just exploring,0,0.0
+L0171,Facebook,AI,1,1,Medium,Undergraduate,3,11,Very interested,0,0.5
+L0172,Facebook,Web Dev,0,1,High,Postgraduate,2,8,Mildly interested,0,0.0
+L0173,Google Ads,Cyber Security,1,0,High,Undergraduate,1,12,Very interested,0,0.0
+L0174,Referral,Web Dev,0,1,High,Graduate,2,7,Just exploring,0,0.0
+L0175,Referral,MBA,0,0,Medium,Graduate,1,13,Not interested,0,0.0
+L0176,Google Ads,Data Science,0,0,Medium,Graduate,2,8,Mildly interested,0,0.0
+L0177,Website,Web Dev,1,1,Low,Postgraduate,3,13,Mildly interested,0,0.5
+L0178,Facebook,Data Science,1,0,Low,Postgraduate,2,8,Very interested,0,0.0
+L0179,Instagram,Cyber Security,1,0,Low,Undergraduate,2,6,Very interested,0,0.0
+L0180,Facebook,Data Science,1,1,Medium,Graduate,2,10,Very interested,0,0.0
+L0181,Facebook,Web Dev,0,1,Medium,Graduate,2,2,Mildly interested,0,2.5
+L0182,Website,MBA,1,0,High,Postgraduate,2,6,Mildly interested,0,2.0
+L0183,Facebook,Cyber Security,1,0,Low,Graduate,2,14,Not interested,0,0.0
+L0184,Google Ads,Web Dev,1,0,Medium,Postgraduate,3,1,Mildly interested,0,1.0
+L0185,Google Ads,Cyber Security,0,1,Medium,Graduate,3,1,Mildly interested,0,4.0
+L0186,Referral,AI,1,0,Low,Undergraduate,1,11,Mildly interested,0,0.0
+L0187,Instagram,Data Science,0,0,Medium,Graduate,3,3,Mildly interested,0,0.0
+L0188,Facebook,AI,0,1,Low,Postgraduate,2,3,Very interested,0,0.0
+L0189,Facebook,Web Dev,1,1,Medium,Postgraduate,1,11,Mildly interested,0,0.5
+L0190,Website,MBA,1,0,Medium,Undergraduate,1,13,Mildly interested,0,0.0
+L0191,Google Ads,Cyber Security,0,1,Low,Graduate,1,5,Just exploring,0,0.5
+L0192,Instagram,Data Science,0,1,Low,Undergraduate,3,1,Not interested,0,0.0
+L0193,Referral,Cyber Security,1,0,Medium,Undergraduate,2,10,Mildly interested,0,0.0
+L0194,Google Ads,Web Dev,1,0,High,Graduate,2,6,Very interested,0,3.5000000000000004
+L0195,Referral,Cyber Security,1,1,Medium,Undergraduate,1,7,Mildly interested,0,1.5
+L0196,Website,Data Science,1,0,Medium,Postgraduate,2,10,Mildly interested,0,0.0
+L0197,Website,Web Dev,1,1,Medium,Undergraduate,1,12,Very interested,0,1.0
+L0198,Facebook,Cyber Security,0,0,High,Postgraduate,2,13,Just exploring,0,0.0
+L0199,Instagram,MBA,1,0,High,Undergraduate,2,11,Not interested,0,0.0
+L0200,Referral,Web Dev,1,0,Medium,Undergraduate,1,3,Not interested,0,1.5
+L0201,Google Ads,Web Dev,0,0,Medium,Undergraduate,3,4,Very interested,0,0.0
+L0202,Website,MBA,1,0,High,Undergraduate,1,10,Just exploring,0,0.5
+L0203,Facebook,AI,0,0,Medium,Undergraduate,2,11,Just exploring,0,0.0
+L0204,Facebook,Data Science,1,1,Medium,Undergraduate,2,10,Mildly interested,0,0.0
+L0205,Referral,AI,1,1,Low,Graduate,2,14,Mildly interested,0,0.0
+L0206,Website,Cyber Security,1,1,High,Undergraduate,1,12,Just exploring,0,1.0
+L0207,Instagram,MBA,1,1,High,Graduate,1,10,Mildly interested,0,0.0
+L0208,Website,AI,1,0,Low,Undergraduate,3,14,Mildly interested,0,0.0
+L0209,Referral,Web Dev,1,1,Medium,Postgraduate,1,10,Mildly interested,0,1.5
+L0210,Referral,Cyber Security,1,0,Medium,Postgraduate,3,10,Mildly interested,0,0.0
+L0211,Website,Cyber Security,0,1,Low,Graduate,3,3,Very interested,0,0.5
+L0212,Referral,AI,1,1,High,Undergraduate,1,1,Not interested,0,25.5
+L0213,Website,AI,0,1,Low,Undergraduate,1,8,Mildly interested,0,0.0
+L0214,Google Ads,MBA,1,1,Low,Postgraduate,2,13,Mildly interested,0,0.0
+L0215,Website,Data Science,1,1,Medium,Undergraduate,3,10,Very interested,0,0.0
+L0216,Website,AI,1,0,Medium,Undergraduate,3,10,Mildly interested,0,0.0
+L0217,Referral,AI,0,0,Low,Undergraduate,2,2,Very interested,0,0.0
+L0218,Referral,Web Dev,0,1,Medium,Undergraduate,2,1,Very interested,0,1.0
+L0219,Facebook,Cyber Security,1,0,Medium,Undergraduate,1,14,Mildly interested,0,0.0
+L0220,Facebook,Data Science,0,1,Low,Graduate,3,8,Mildly interested,0,0.0
+L0221,Google Ads,Web Dev,0,1,Low,Undergraduate,3,7,Mildly interested,0,0.0
+L0222,Facebook,MBA,0,0,Medium,Graduate,1,7,Very interested,0,0.0
+L0223,Website,MBA,1,1,Low,Undergraduate,1,4,Mildly interested,0,5.0
+L0224,Referral,AI,1,1,High,Undergraduate,1,11,Very interested,0,0.5
+L0225,Facebook,AI,0,1,High,Postgraduate,1,9,Not interested,0,0.0
+L0226,Facebook,MBA,0,1,High,Undergraduate,3,6,Mildly interested,0,4.0
+L0227,Google Ads,AI,0,1,Low,Postgraduate,2,2,Mildly interested,0,0.5
+L0228,Google Ads,Data Science,1,1,High,Graduate,1,14,Mildly interested,0,1.0
+L0229,Website,AI,1,1,Medium,Undergraduate,2,1,Very interested,1,90.0
+L0230,Referral,Cyber Security,0,0,Medium,Postgraduate,3,1,Not interested,0,0.0
+L0231,Google Ads,AI,0,0,Low,Undergraduate,2,9,Very interested,0,0.0
+L0232,Facebook,Web Dev,0,1,Low,Postgraduate,2,4,Mildly interested,0,0.0
+L0233,Referral,Data Science,1,0,Medium,Undergraduate,1,5,Mildly interested,0,0.0
+L0234,Referral,Web Dev,1,1,Medium,Postgraduate,3,3,Very interested,1,90.5
+L0235,Facebook,Web Dev,0,1,Low,Undergraduate,3,4,Just exploring,0,0.0
+L0236,Google Ads,Cyber Security,0,0,Medium,Graduate,1,12,Mildly interested,0,0.0
+L0237,Facebook,Data Science,0,1,Low,Graduate,1,8,Very interested,0,0.0
+L0238,Referral,Data Science,1,1,Medium,Postgraduate,1,13,Very interested,0,0.0
+L0239,Instagram,Data Science,0,0,Medium,Postgraduate,1,4,Very interested,0,0.0
+L0240,Instagram,Data Science,1,0,High,Postgraduate,2,9,Just exploring,0,0.0
+L0241,Website,Data Science,1,0,High,Postgraduate,3,9,Mildly interested,0,0.0
+L0242,Facebook,Cyber Security,0,0,Medium,Undergraduate,2,6,Very interested,0,0.0
+L0243,Facebook,AI,0,1,Medium,Undergraduate,3,2,Very interested,0,2.5
+L0244,Website,Web Dev,0,0,Medium,Undergraduate,2,12,Mildly interested,0,0.0
+L0245,Website,Data Science,1,1,High,Undergraduate,2,10,Mildly interested,0,0.0
+L0246,Website,AI,1,0,Medium,Undergraduate,2,11,Mildly interested,0,0.0
+L0247,Referral,AI,1,0,Low,Graduate,1,7,Mildly interested,0,0.0
+L0248,Facebook,Web Dev,1,1,Low,Undergraduate,2,9,Very interested,0,0.0
+L0249,Referral,Cyber Security,0,1,Medium,Graduate,2,6,Mildly interested,0,0.5
+L0250,Website,MBA,1,0,Medium,Undergraduate,1,3,Not interested,0,0.0
+L0251,Facebook,MBA,1,0,High,Undergraduate,2,14,Very interested,0,0.0
+L0252,Referral,AI,0,0,Low,Graduate,2,7,Mildly interested,0,0.0
+L0253,Referral,Web Dev,1,0,Medium,Graduate,3,5,Mildly interested,0,1.0
+L0254,Website,MBA,1,1,High,Graduate,2,1,Mildly interested,1,84.5
+L0255,Facebook,AI,1,0,High,Graduate,3,3,Very interested,0,2.0
+L0256,Website,Cyber Security,1,0,Medium,Undergraduate,2,5,Just exploring,0,0.5
+L0257,Facebook,MBA,1,0,Medium,Graduate,2,7,Mildly interested,0,0.0
+L0258,Instagram,AI,1,1,Medium,Undergraduate,2,3,Mildly interested,1,96.0
+L0259,Google Ads,AI,0,1,High,Undergraduate,3,6,Mildly interested,0,2.0
+L0260,Google Ads,Data Science,0,0,Low,Graduate,2,5,Very interested,0,0.0
+L0261,Google Ads,Cyber Security,1,1,High,Undergraduate,2,13,Very interested,0,1.5
+L0262,Website,Data Science,0,0,Medium,Undergraduate,2,1,Just exploring,0,0.0
+L0263,Instagram,Web Dev,0,0,Medium,Postgraduate,2,10,Very interested,0,0.0
+L0264,Facebook,Data Science,1,1,Low,Postgraduate,1,6,Mildly interested,0,2.0
+L0265,Referral,Data Science,1,1,Medium,Undergraduate,1,14,Mildly interested,0,0.0
+L0266,Facebook,MBA,1,1,Medium,Undergraduate,1,8,Mildly interested,0,1.5
+L0267,Referral,AI,1,1,Low,Undergraduate,3,13,Mildly interested,0,0.5
+L0268,Facebook,Cyber Security,0,0,Medium,Undergraduate,1,13,Mildly interested,0,0.0
+L0269,Instagram,Data Science,0,1,High,Postgraduate,1,1,Very interested,0,1.0
+L0270,Referral,Cyber Security,0,0,Medium,Undergraduate,2,2,Mildly interested,0,0.0
+L0271,Website,Data Science,1,1,Medium,Graduate,2,14,Mildly interested,0,0.5
+L0272,Facebook,Web Dev,1,0,Low,Undergraduate,2,4,Mildly interested,0,0.0
+L0273,Facebook,Data Science,0,1,Medium,Postgraduate,1,12,Very interested,0,0.0
+L0274,Referral,MBA,1,0,Low,Undergraduate,3,2,Mildly interested,0,0.0
+L0275,Website,AI,1,0,Medium,Graduate,3,11,Very interested,0,0.0
+L0276,Website,Web Dev,1,1,High,Undergraduate,3,9,Very interested,0,8.0
+L0277,Instagram,Data Science,1,0,Medium,Graduate,2,10,Very interested,0,0.0
+L0278,Website,Cyber Security,0,1,Low,Undergraduate,2,8,Just exploring,0,0.0
+L0279,Website,Web Dev,1,0,Medium,Undergraduate,1,8,Very interested,0,0.0
+L0280,Website,Web Dev,1,0,Medium,Postgraduate,1,4,Very interested,0,1.5
+L0281,Google Ads,Data Science,1,0,Medium,Postgraduate,1,5,Very interested,0,0.0
+L0282,Instagram,Web Dev,1,0,High,Postgraduate,2,4,Very interested,0,1.5
+L0283,Facebook,Cyber Security,1,1,High,Graduate,2,13,Mildly interested,0,0.0
+L0284,Referral,Web Dev,1,0,Medium,Postgraduate,2,9,Very interested,0,0.0
+L0285,Facebook,Cyber Security,0,1,Medium,Undergraduate,1,13,Very interested,0,0.0
+L0286,Instagram,Data Science,1,1,Low,Undergraduate,2,2,Mildly interested,0,3.0
+L0287,Referral,AI,1,0,Low,Undergraduate,2,13,Mildly interested,0,0.0
+L0288,Instagram,Web Dev,1,1,Medium,Graduate,2,11,Just exploring,0,0.0
+L0289,Website,AI,0,1,Medium,Undergraduate,2,8,Mildly interested,0,0.0
+L0290,Referral,Cyber Security,0,1,Medium,Undergraduate,1,2,Very interested,0,4.0
+L0291,Website,Web Dev,0,0,Medium,Graduate,3,1,Mildly interested,0,0.0
+L0292,Facebook,MBA,1,0,Low,Postgraduate,2,10,Very interested,0,0.0
+L0293,Facebook,AI,1,1,Medium,Undergraduate,1,3,Mildly interested,1,87.5
+L0294,Referral,Web Dev,0,1,Low,Undergraduate,1,9,Mildly interested,0,0.0
+L0295,Referral,AI,1,1,Low,Undergraduate,2,12,Very interested,0,0.0
+L0296,Instagram,Web Dev,1,0,High,Undergraduate,3,3,Mildly interested,0,1.5
+L0297,Instagram,Data Science,1,1,Low,Undergraduate,2,9,Just exploring,0,0.0
+L0298,Website,AI,1,0,Medium,Graduate,1,7,Not interested,0,0.0
+L0299,Referral,MBA,1,0,Low,Graduate,3,13,Mildly interested,0,0.0
+L0300,Facebook,MBA,1,0,High,Graduate,2,10,Mildly interested,0,0.0
+L0301,Instagram,Cyber Security,0,1,Medium,Undergraduate,2,1,Very interested,0,3.0
+L0302,Instagram,Web Dev,1,0,Low,Postgraduate,2,10,Very interested,0,0.0
+L0303,Facebook,AI,1,0,Medium,Undergraduate,1,5,Mildly interested,0,0.5
+L0304,Instagram,Cyber Security,1,1,Medium,Graduate,2,9,Mildly interested,0,0.0
+L0305,Website,AI,1,0,High,Postgraduate,2,12,Not interested,0,0.0
+L0306,Referral,Web Dev,1,0,Low,Undergraduate,3,3,Mildly interested,0,0.0
+L0307,Facebook,MBA,0,0,High,Undergraduate,2,9,Mildly interested,0,0.0
+L0308,Referral,Data Science,1,1,High,Postgraduate,2,5,Mildly interested,1,59.0
+L0309,Instagram,MBA,0,1,High,Undergraduate,2,9,Just exploring,0,0.0
+L0310,Instagram,Cyber Security,0,0,Medium,Graduate,3,10,Mildly interested,0,0.0
+L0311,Facebook,Data Science,1,1,Medium,Undergraduate,3,6,Mildly interested,1,83.5
+L0312,Website,Cyber Security,1,1,Medium,Graduate,2,9,Mildly interested,0,0.5
+L0313,Google Ads,Web Dev,0,0,Medium,Undergraduate,2,7,Just exploring,0,0.0
+L0314,Facebook,Data Science,1,1,Medium,Undergraduate,2,7,Very interested,0,0.5
+L0315,Google Ads,Cyber Security,1,1,Medium,Graduate,2,8,Just exploring,0,0.0
+L0316,Google Ads,Web Dev,0,1,Medium,Undergraduate,1,7,Mildly interested,0,0.0
+L0317,Website,MBA,1,0,Medium,Undergraduate,2,12,Mildly interested,0,0.0
+L0318,Google Ads,Web Dev,1,1,High,Undergraduate,1,9,Mildly interested,0,2.0
+L0319,Google Ads,AI,1,1,Low,Undergraduate,3,11,Mildly interested,0,0.5
+L0320,Website,Web Dev,0,0,High,Undergraduate,2,9,Very interested,0,0.0
+L0321,Google Ads,Web Dev,0,0,Medium,Undergraduate,3,6,Just exploring,0,0.0
+L0322,Google Ads,AI,1,0,High,Postgraduate,2,7,Mildly interested,0,0.0
+L0323,Google Ads,Cyber Security,1,0,Medium,Undergraduate,2,2,Mildly interested,0,1.0
+L0324,Facebook,Cyber Security,0,1,Medium,Graduate,2,9,Very interested,0,0.0
+L0325,Facebook,Web Dev,1,0,High,Undergraduate,1,12,Mildly interested,0,0.0
+L0326,Facebook,AI,0,0,Low,Undergraduate,2,13,Mildly interested,0,0.0
+L0327,Website,AI,1,1,High,Postgraduate,1,1,Mildly interested,1,76.5
+L0328,Instagram,MBA,0,0,Medium,Undergraduate,2,1,Mildly interested,0,0.0
+L0329,Google Ads,Cyber Security,1,1,Medium,Postgraduate,2,3,Mildly interested,1,92.5
+L0330,Google Ads,Data Science,0,0,Medium,Undergraduate,2,12,Not interested,0,0.0
+L0331,Website,Cyber Security,0,0,Medium,Graduate,1,6,Mildly interested,0,0.0
+L0332,Google Ads,Cyber Security,0,0,Medium,Graduate,1,5,Just exploring,0,0.0
+L0333,Facebook,MBA,0,0,Low,Postgraduate,2,2,Very interested,0,0.0
+L0334,Instagram,Data Science,1,0,Low,Graduate,3,9,Mildly interested,0,0.0
+L0335,Referral,MBA,1,1,Low,Graduate,2,14,Mildly interested,0,0.0
+L0336,Google Ads,Data Science,0,1,High,Undergraduate,2,13,Mildly interested,0,0.0
+L0337,Facebook,Web Dev,1,0,High,Undergraduate,2,10,Just exploring,0,0.0
+L0338,Referral,Data Science,1,1,Medium,Postgraduate,1,14,Very interested,0,0.0
+L0339,Instagram,MBA,1,1,Medium,Undergraduate,3,4,Very interested,1,90.5
+L0340,Referral,Cyber Security,1,1,Medium,Undergraduate,2,4,Just exploring,0,7.5
+L0341,Facebook,Data Science,0,0,Medium,Graduate,1,5,Very interested,0,0.0
+L0342,Referral,Data Science,1,0,High,Undergraduate,2,8,Mildly interested,0,0.0
+L0343,Website,AI,1,0,High,Postgraduate,1,10,Mildly interested,0,0.0
+L0344,Referral,Cyber Security,0,1,Medium,Graduate,3,4,Just exploring,0,0.5
+L0345,Google Ads,Web Dev,1,1,Medium,Graduate,1,5,Very interested,1,88.5
+L0346,Google Ads,MBA,0,0,Low,Postgraduate,2,12,Very interested,0,0.0
+L0347,Website,Web Dev,1,0,High,Undergraduate,1,4,Mildly interested,0,7.5
+L0348,Facebook,Cyber Security,0,1,Low,Undergraduate,2,14,Not interested,0,0.0
+L0349,Google Ads,Data Science,1,1,Medium,Graduate,2,6,Mildly interested,1,96.0
+L0350,Instagram,Data Science,1,1,Medium,Undergraduate,2,12,Mildly interested,0,0.0
+L0351,Google Ads,Cyber Security,1,1,Medium,Graduate,2,3,Mildly interested,1,98.5
+L0352,Google Ads,Data Science,0,0,Low,Postgraduate,3,8,Not interested,0,0.0
+L0353,Facebook,Data Science,1,1,High,Graduate,1,6,Just exploring,0,11.0
+L0354,Referral,Data Science,1,1,Low,Undergraduate,2,10,Not interested,0,0.0
+L0355,Google Ads,MBA,1,0,Medium,Postgraduate,1,5,Very interested,0,1.0
+L0356,Website,MBA,1,1,Low,Graduate,3,13,Very interested,0,0.5
+L0357,Referral,AI,1,1,Medium,Graduate,2,2,Mildly interested,1,92.0
+L0358,Instagram,Web Dev,1,0,Medium,Undergraduate,2,10,Just exploring,0,0.0
+L0359,Facebook,Cyber Security,0,1,Medium,Postgraduate,2,10,Very interested,0,0.0
+L0360,Instagram,Cyber Security,1,1,Low,Graduate,1,7,Very interested,0,0.0
+L0361,Referral,Cyber Security,1,1,Low,Graduate,1,2,Just exploring,0,1.0
+L0362,Referral,AI,0,0,Medium,Postgraduate,1,1,Very interested,0,0.5
+L0363,Referral,MBA,0,0,Medium,Undergraduate,2,7,Mildly interested,0,0.0
+L0364,Instagram,AI,0,1,High,Graduate,1,5,Mildly interested,0,6.0
+L0365,Referral,Cyber Security,1,0,Low,Postgraduate,1,1,Mildly interested,0,1.0
+L0366,Instagram,Web Dev,1,1,Medium,Undergraduate,3,4,Just exploring,0,20.5
+L0367,Referral,Data Science,1,1,Low,Graduate,3,12,Mildly interested,0,0.0
+L0368,Website,MBA,1,0,Low,Postgraduate,2,13,Mildly interested,0,0.0
+L0369,Referral,MBA,1,1,Medium,Graduate,2,4,Mildly interested,1,92.0
+L0370,Instagram,AI,0,1,Medium,Graduate,1,10,Mildly interested,0,0.0
+L0371,Google Ads,MBA,0,0,Low,Postgraduate,2,7,Mildly interested,0,0.0
+L0372,Referral,Cyber Security,1,1,Low,Postgraduate,3,9,Very interested,0,0.0
+L0373,Google Ads,Cyber Security,0,1,Low,Undergraduate,1,2,Very interested,0,0.0
+L0374,Website,AI,0,1,High,Undergraduate,1,12,Very interested,0,0.5
+L0375,Facebook,Cyber Security,1,1,High,Graduate,2,14,Very interested,0,0.0
+L0376,Website,Web Dev,1,0,Low,Graduate,2,1,Mildly interested,0,0.5
+L0377,Referral,AI,1,1,Low,Graduate,1,2,Just exploring,0,0.0
+L0378,Google Ads,Web Dev,1,1,High,Graduate,2,7,Just exploring,0,2.5
+L0379,Google Ads,Data Science,1,1,High,Undergraduate,2,13,Just exploring,0,0.0
+L0380,Instagram,Web Dev,1,1,Medium,Graduate,2,10,Mildly interested,0,0.5
+L0381,Google Ads,Data Science,1,0,Low,Undergraduate,2,6,Mildly interested,0,0.0
+L0382,Instagram,Data Science,1,1,Low,Graduate,3,4,Mildly interested,0,6.0
+L0383,Facebook,Web Dev,0,0,Medium,Graduate,2,1,Very interested,0,0.0
+L0384,Referral,AI,1,0,Medium,Undergraduate,3,13,Very interested,0,0.0
+L0385,Instagram,Cyber Security,1,0,Low,Undergraduate,2,1,Mildly interested,0,0.5
+L0386,Facebook,Cyber Security,0,1,Medium,Graduate,2,5,Not interested,0,1.0
+L0387,Google Ads,Data Science,1,1,Low,Graduate,2,1,Very interested,0,7.5
+L0388,Google Ads,Data Science,1,1,Medium,Undergraduate,3,12,Very interested,0,0.0
+L0389,Facebook,AI,0,1,Medium,Postgraduate,3,7,Just exploring,0,0.0
+L0390,Google Ads,MBA,0,1,Low,Graduate,1,13,Very interested,0,0.0
+L0391,Facebook,Web Dev,0,1,Medium,Postgraduate,3,11,Just exploring,0,0.0
+L0392,Instagram,Data Science,0,0,Medium,Graduate,3,1,Just exploring,0,0.0
+L0393,Instagram,Cyber Security,0,0,High,Graduate,2,1,Not interested,0,0.5
+L0394,Facebook,AI,1,0,Medium,Postgraduate,1,2,Mildly interested,0,0.0
+L0395,Instagram,Web Dev,0,1,Low,Graduate,3,13,Mildly interested,0,0.0
+L0396,Instagram,AI,1,1,Medium,Graduate,3,14,Mildly interested,0,0.5
+L0397,Instagram,Web Dev,0,0,Low,Undergraduate,1,11,Mildly interested,0,0.0
+L0398,Website,Web Dev,1,0,High,Graduate,3,12,Mildly interested,0,0.0
+L0399,Referral,Data Science,0,1,Medium,Undergraduate,1,10,Very interested,0,0.0
+L0400,Google Ads,AI,1,0,Medium,Undergraduate,1,3,Mildly interested,0,0.0
+L0401,Website,AI,1,1,Low,Undergraduate,2,13,Mildly interested,0,0.0
+L0402,Instagram,Cyber Security,1,1,Medium,Undergraduate,2,11,Just exploring,0,0.0
+L0403,Facebook,Cyber Security,0,0,High,Postgraduate,2,1,Just exploring,0,0.0
+L0404,Instagram,Data Science,1,0,High,Undergraduate,1,9,Mildly interested,0,0.0
+L0405,Referral,Data Science,1,1,Low,Graduate,3,10,Very interested,0,0.5
+L0406,Instagram,MBA,1,1,Low,Postgraduate,1,8,Just exploring,0,0.0
+L0407,Facebook,Cyber Security,0,1,High,Graduate,1,5,Mildly interested,0,3.5000000000000004
+L0408,Referral,Web Dev,0,1,High,Undergraduate,1,13,Just exploring,0,0.0
+L0409,Instagram,AI,1,0,Low,Graduate,2,11,Not interested,0,0.0
+L0410,Referral,Data Science,1,1,Medium,Graduate,3,2,Very interested,1,93.0
+L0411,Google Ads,AI,1,1,Medium,Graduate,2,5,Just exploring,0,5.5
+L0412,Google Ads,AI,1,1,High,Graduate,3,6,Very interested,1,59.0
+L0413,Instagram,MBA,1,0,Low,Postgraduate,1,14,Mildly interested,0,0.0
+L0414,Referral,Cyber Security,0,1,Low,Graduate,2,1,Mildly interested,0,3.5000000000000004
+L0415,Facebook,Data Science,1,1,Medium,Undergraduate,2,11,Very interested,0,0.0
+L0416,Instagram,AI,0,0,Low,Graduate,2,4,Just exploring,0,0.0
+L0417,Google Ads,Data Science,1,0,Medium,Undergraduate,1,9,Very interested,0,0.0
+L0418,Google Ads,Web Dev,1,1,Medium,Postgraduate,2,2,Very interested,1,94.5
+L0419,Instagram,MBA,1,0,Medium,Undergraduate,2,5,Mildly interested,0,2.0
+L0420,Referral,Web Dev,0,0,Medium,Undergraduate,2,1,Just exploring,0,0.0
+L0421,Google Ads,Data Science,0,0,Medium,Postgraduate,2,4,Not interested,0,0.0
+L0422,Referral,Data Science,0,1,Low,Graduate,1,4,Just exploring,0,0.0
+L0423,Google Ads,Cyber Security,0,1,Medium,Undergraduate,2,6,Mildly interested,0,1.0
+L0424,Google Ads,AI,0,1,High,Graduate,1,10,Mildly interested,0,0.0
+L0425,Website,AI,1,0,Medium,Postgraduate,3,9,Very interested,0,0.0
+L0426,Google Ads,Web Dev,0,1,Low,Undergraduate,2,3,Very interested,0,1.0
+L0427,Facebook,MBA,0,1,Low,Postgraduate,1,9,Mildly interested,0,0.0
+L0428,Instagram,AI,1,1,Low,Undergraduate,3,6,Mildly interested,0,7.000000000000001
+L0429,Instagram,Cyber Security,1,1,Medium,Graduate,2,7,Mildly interested,0,0.0
+L0430,Referral,Web Dev,1,0,Medium,Postgraduate,1,12,Just exploring,0,0.0
+L0431,Google Ads,Web Dev,0,1,Medium,Undergraduate,2,10,Mildly interested,0,0.0
+L0432,Facebook,Cyber Security,1,0,Low,Graduate,1,2,Very interested,0,1.0
+L0433,Referral,MBA,0,1,Low,Undergraduate,3,11,Very interested,0,0.0
+L0434,Website,Cyber Security,0,0,Medium,Graduate,3,10,Just exploring,0,0.0
+L0435,Referral,MBA,1,0,Medium,Graduate,3,14,Just exploring,0,0.0
+L0436,Referral,Cyber Security,0,0,Low,Graduate,2,6,Just exploring,0,0.0
+L0437,Google Ads,Cyber Security,1,1,Medium,Undergraduate,2,6,Very interested,1,85.5
+L0438,Website,Data Science,1,0,Low,Undergraduate,2,2,Not interested,0,0.0
+L0439,Referral,Web Dev,0,1,High,Undergraduate,1,2,Very interested,0,1.0
+L0440,Facebook,Cyber Security,1,0,High,Undergraduate,2,14,Very interested,0,0.0
+L0441,Facebook,Cyber Security,0,0,Low,Graduate,2,2,Not interested,0,0.0
+L0442,Instagram,AI,1,1,Low,Postgraduate,1,10,Very interested,0,0.0
+L0443,Website,Web Dev,1,0,Medium,Graduate,2,12,Mildly interested,0,0.0
+L0444,Website,AI,1,0,Low,Graduate,3,1,Very interested,0,0.5
+L0445,Instagram,Web Dev,1,1,Medium,Postgraduate,3,5,Mildly interested,1,95.0
+L0446,Referral,AI,0,0,High,Graduate,1,8,Not interested,0,0.0
+L0447,Website,Cyber Security,1,0,Medium,Postgraduate,1,2,Mildly interested,0,1.0
+L0448,Facebook,Cyber Security,0,0,High,Graduate,1,13,Mildly interested,0,0.0
+L0449,Facebook,Data Science,1,1,Medium,Undergraduate,3,5,Very interested,1,92.5
+L0450,Google Ads,AI,1,1,Low,Undergraduate,1,12,Mildly interested,0,0.0
+L0451,Website,MBA,0,1,Medium,Graduate,2,8,Mildly interested,0,0.0
+L0452,Referral,Data Science,1,1,Medium,Undergraduate,1,10,Very interested,0,0.0
+L0453,Instagram,AI,0,0,Medium,Undergraduate,2,14,Mildly interested,0,0.0
+L0454,Instagram,AI,1,0,Low,Graduate,2,5,Very interested,0,0.0
+L0455,Referral,Data Science,1,1,Low,Graduate,2,2,Not interested,0,5.0
+L0456,Google Ads,Cyber Security,1,0,High,Graduate,1,3,Mildly interested,0,2.5
+L0457,Instagram,AI,1,0,Low,Undergraduate,2,6,Very interested,0,0.0
+L0458,Website,Cyber Security,0,0,High,Undergraduate,1,11,Mildly interested,0,0.0
+L0459,Google Ads,Data Science,0,0,High,Graduate,2,11,Mildly interested,0,0.0
+L0460,Website,Cyber Security,0,1,Medium,Postgraduate,3,5,Just exploring,0,0.0
+L0461,Facebook,Web Dev,0,0,Medium,Graduate,1,11,Not interested,0,0.0
+L0462,Google Ads,MBA,0,1,Medium,Postgraduate,3,4,Mildly interested,0,1.5
+L0463,Instagram,AI,1,0,High,Graduate,2,4,Just exploring,0,0.0
+L0464,Google Ads,MBA,1,1,Low,Graduate,1,5,Mildly interested,0,3.0
+L0465,Google Ads,Cyber Security,1,0,Medium,Undergraduate,2,2,Very interested,0,1.5
+L0466,Google Ads,AI,0,0,Medium,Graduate,1,9,Mildly interested,0,0.0
+L0467,Google Ads,Cyber Security,1,1,Medium,Graduate,2,2,Mildly interested,1,99.0
+L0468,Website,Web Dev,1,1,Medium,Graduate,2,10,Mildly interested,0,1.5
+L0469,Facebook,Data Science,0,0,Medium,Graduate,1,2,Just exploring,0,0.0
+L0470,Referral,AI,1,0,Medium,Graduate,2,10,Mildly interested,0,0.0
+L0471,Google Ads,Web Dev,1,0,High,Undergraduate,3,14,Not interested,0,0.5
+L0472,Instagram,Web Dev,0,0,Low,Graduate,3,9,Just exploring,0,0.0
+L0473,Google Ads,AI,1,0,High,Undergraduate,2,14,Mildly interested,0,0.0
+L0474,Instagram,Cyber Security,1,0,Medium,Postgraduate,3,3,Mildly interested,0,0.5
+L0475,Website,Web Dev,0,0,High,Undergraduate,2,10,Mildly interested,0,0.0
+L0476,Instagram,MBA,1,0,Medium,Undergraduate,2,7,Not interested,0,0.0
+L0477,Referral,Web Dev,1,1,Medium,Graduate,3,4,Mildly interested,1,93.5
+L0478,Facebook,Cyber Security,1,1,Low,Graduate,2,13,Very interested,0,0.0
+L0479,Instagram,Cyber Security,1,1,High,Graduate,2,13,Mildly interested,0,1.0
+L0480,Instagram,MBA,1,0,Low,Undergraduate,2,6,Mildly interested,0,0.0
+L0481,Facebook,Web Dev,1,0,High,Graduate,3,14,Very interested,0,0.0
+L0482,Referral,Cyber Security,1,1,High,Undergraduate,3,4,Very interested,1,78.5
+L0483,Google Ads,AI,0,0,Low,Postgraduate,2,10,Mildly interested,0,0.0
+L0484,Instagram,Data Science,1,0,Low,Postgraduate,2,7,Mildly interested,0,0.0
+L0485,Facebook,Data Science,1,1,Medium,Graduate,2,1,Mildly interested,1,85.5
+L0486,Website,Data Science,1,1,Low,Undergraduate,2,3,Very interested,0,2.5
+L0487,Facebook,Web Dev,0,1,High,Graduate,1,13,Very interested,0,0.5
+L0488,Website,MBA,1,0,Low,Undergraduate,2,3,Mildly interested,0,0.0
+L0489,Referral,Cyber Security,0,0,Low,Graduate,2,1,Mildly interested,0,0.0
+L0490,Google Ads,AI,0,1,High,Undergraduate,2,6,Very interested,0,1.5
+L0491,Facebook,AI,0,0,Medium,Postgraduate,1,13,Mildly interested,0,0.0
+L0492,Instagram,Web Dev,0,1,High,Undergraduate,1,11,Mildly interested,0,0.0
+L0493,Referral,Data Science,1,1,Medium,Graduate,3,14,Very interested,0,1.0
+L0494,Facebook,Web Dev,1,1,Medium,Graduate,2,9,Very interested,0,0.5
+L0495,Instagram,MBA,0,0,Medium,Graduate,1,8,Very interested,0,0.0
+L0496,Facebook,MBA,1,0,Medium,Undergraduate,2,11,Just exploring,0,0.0
+L0497,Website,Cyber Security,1,1,Medium,Postgraduate,2,7,Just exploring,0,0.0
+L0498,Facebook,Cyber Security,1,1,Medium,Graduate,1,10,Just exploring,0,0.5
+L0499,Facebook,MBA,0,1,Medium,Graduate,2,8,Just exploring,0,0.0
+L0500,Facebook,MBA,1,0,Low,Undergraduate,2,6,Mildly interested,0,0.0
+L0501,Referral,MBA,1,0,Medium,Graduate,2,9,Mildly interested,0,0.0
+L0502,Facebook,Web Dev,1,1,Low,Graduate,2,3,Mildly interested,0,3.0
+L0503,Instagram,MBA,0,1,Medium,Undergraduate,2,10,Very interested,0,0.0
+L0504,Website,AI,0,1,Low,Undergraduate,3,10,Mildly interested,0,0.0
+L0505,Website,Data Science,1,0,Medium,Postgraduate,2,9,Just exploring,0,0.0
+L0506,Facebook,MBA,1,1,Medium,Undergraduate,1,4,Mildly interested,1,86.5
+L0507,Referral,Data Science,1,1,Low,Undergraduate,1,7,Mildly interested,0,0.0
+L0508,Referral,Web Dev,1,1,Low,Graduate,2,13,Very interested,0,0.0
+L0509,Instagram,Data Science,0,0,Low,Graduate,2,9,Mildly interested,0,0.0
+L0510,Facebook,Web Dev,1,0,Medium,Undergraduate,1,2,Mildly interested,0,1.5
+L0511,Website,AI,1,1,High,Graduate,2,2,Just exploring,0,13.5
+L0512,Referral,Web Dev,0,0,Low,Undergraduate,1,9,Mildly interested,0,0.0
+L0513,Facebook,Web Dev,1,0,Medium,Undergraduate,2,12,Just exploring,0,0.0
+L0514,Referral,Cyber Security,1,1,Medium,Undergraduate,2,13,Mildly interested,0,1.0
+L0515,Referral,MBA,0,0,Medium,Postgraduate,2,3,Just exploring,0,0.0
+L0516,Website,MBA,1,1,High,Undergraduate,2,9,Mildly interested,0,0.0
+L0517,Google Ads,AI,0,0,Medium,Undergraduate,1,13,Mildly interested,0,0.0
+L0518,Instagram,AI,1,1,Medium,Graduate,2,5,Mildly interested,1,98.0
+L0519,Instagram,MBA,1,1,Low,Postgraduate,1,6,Just exploring,0,0.0
+L0520,Website,Cyber Security,1,0,Low,Undergraduate,3,2,Not interested,0,0.0
+L0521,Referral,MBA,1,0,Low,Graduate,1,8,Very interested,0,0.0
+L0522,Facebook,Cyber Security,0,0,Low,Undergraduate,3,11,Very interested,0,0.0
+L0523,Referral,AI,1,0,Medium,Graduate,2,9,Not interested,0,0.0
+L0524,Website,Data Science,1,1,Medium,Graduate,2,2,Mildly interested,1,92.5
+L0525,Instagram,AI,0,1,Medium,Graduate,2,6,Mildly interested,0,1.0
+L0526,Referral,AI,1,0,Low,Undergraduate,3,6,Mildly interested,0,0.0
+L0527,Instagram,Web Dev,1,0,Low,Undergraduate,1,8,Very interested,0,0.0
+L0528,Facebook,Web Dev,0,0,Medium,Undergraduate,1,10,Just exploring,0,0.0
+L0529,Instagram,Web Dev,1,1,High,Undergraduate,2,12,Just exploring,0,0.5
+L0530,Instagram,Web Dev,1,0,Low,Undergraduate,1,5,Mildly interested,0,0.5
+L0531,Google Ads,Cyber Security,0,1,High,Graduate,1,9,Mildly interested,0,0.0
+L0532,Google Ads,MBA,1,1,Medium,Postgraduate,3,1,Just exploring,0,6.0
+L0533,Google Ads,Data Science,0,1,Medium,Postgraduate,3,9,Very interested,0,0.0
+L0534,Instagram,AI,0,0,Medium,Postgraduate,2,10,Just exploring,0,0.0
+L0535,Website,Cyber Security,0,1,Low,Graduate,3,7,Very interested,0,0.0
+L0536,Instagram,Data Science,1,0,Low,Graduate,2,4,Mildly interested,0,0.0
+L0537,Website,Cyber Security,1,0,Medium,Undergraduate,1,3,Not interested,0,0.0
+L0538,Website,Cyber Security,0,1,Medium,Graduate,2,14,Mildly interested,0,0.0
+L0539,Google Ads,AI,1,1,High,Graduate,2,10,Mildly interested,0,1.0
+L0540,Referral,MBA,1,0,Medium,Graduate,3,11,Mildly interested,0,0.0
+L0541,Facebook,Web Dev,0,0,Low,Graduate,1,14,Mildly interested,0,0.0
+L0542,Google Ads,MBA,1,0,Medium,Undergraduate,2,6,Very interested,0,0.5
+L0543,Google Ads,AI,1,0,Low,Undergraduate,1,12,Not interested,0,0.0
+L0544,Referral,AI,1,0,Medium,Postgraduate,1,13,Just exploring,0,0.0
+L0545,Facebook,AI,1,0,Medium,Undergraduate,1,1,Mildly interested,0,1.0
+L0546,Instagram,Data Science,1,0,High,Graduate,3,3,Mildly interested,0,1.5
+L0547,Instagram,MBA,1,1,Medium,Postgraduate,3,2,Very interested,1,94.0
+L0548,Google Ads,MBA,1,1,Medium,Graduate,2,11,Very interested,0,0.5
+L0549,Facebook,Cyber Security,1,1,Medium,Graduate,2,13,Mildly interested,0,0.5
+L0550,Google Ads,Cyber Security,0,0,High,Undergraduate,2,9,Just exploring,0,0.0
+L0551,Website,Cyber Security,1,1,Low,Undergraduate,1,3,Mildly interested,0,4.0
+L0552,Google Ads,AI,1,1,Low,Postgraduate,1,13,Just exploring,0,0.5
+L0553,Google Ads,MBA,0,1,Low,Graduate,2,2,Very interested,0,0.0
+L0554,Instagram,AI,0,1,Low,Graduate,2,4,Mildly interested,0,0.5
+L0555,Instagram,Data Science,1,1,Medium,Undergraduate,2,14,Very interested,0,0.0
+L0556,Instagram,Cyber Security,1,1,Medium,Undergraduate,1,2,Mildly interested,1,99.5
+L0557,Website,AI,1,0,Medium,Postgraduate,1,1,Very interested,0,1.0
+L0558,Instagram,AI,1,1,Low,Undergraduate,1,6,Not interested,0,3.0
+L0559,Facebook,Data Science,0,1,Medium,Graduate,2,10,Very interested,0,0.0
+L0560,Referral,Web Dev,1,1,Medium,Undergraduate,3,8,Not interested,0,4.0
+L0561,Facebook,MBA,0,1,Medium,Graduate,2,10,Mildly interested,0,0.0
+L0562,Facebook,Web Dev,1,0,Medium,Postgraduate,3,10,Not interested,0,0.0
+L0563,Instagram,Cyber Security,1,0,Medium,Graduate,2,2,Mildly interested,0,2.0
+L0564,Referral,AI,1,1,Low,Undergraduate,2,14,Not interested,0,0.0
+L0565,Referral,Data Science,1,1,Low,Graduate,1,9,Very interested,0,0.0
+L0566,Referral,Data Science,0,1,High,Graduate,3,13,Just exploring,0,0.0
+L0567,Website,MBA,1,0,High,Graduate,2,3,Not interested,0,0.0
+L0568,Instagram,Web Dev,1,0,Medium,Postgraduate,1,8,Very interested,0,0.0
+L0569,Referral,MBA,1,1,Low,Graduate,2,12,Very interested,0,0.0
+L0570,Website,AI,0,1,Medium,Postgraduate,2,8,Mildly interested,0,0.0
+L0571,Google Ads,MBA,1,1,Medium,Graduate,2,3,Not interested,0,69.0
+L0572,Google Ads,Data Science,1,0,Medium,Undergraduate,3,3,Mildly interested,0,1.0
+L0573,Website,Data Science,0,1,Low,Undergraduate,2,12,Mildly interested,0,0.0
+L0574,Website,Cyber Security,0,0,Low,Undergraduate,2,6,Very interested,0,0.0
+L0575,Instagram,Cyber Security,1,1,Medium,Postgraduate,1,1,Very interested,1,97.0
+L0576,Instagram,AI,1,0,Medium,Graduate,1,4,Just exploring,0,0.0
+L0577,Google Ads,Web Dev,0,0,Low,Graduate,1,1,Very interested,0,0.0
+L0578,Referral,MBA,0,1,Low,Undergraduate,1,14,Mildly interested,0,0.0
+L0579,Google Ads,AI,0,1,Medium,Undergraduate,2,3,Not interested,0,4.0
+L0580,Referral,Cyber Security,0,0,High,Graduate,2,9,Very interested,0,0.0
+L0581,Referral,MBA,1,1,High,Graduate,1,14,Mildly interested,0,0.0
+L0582,Instagram,Cyber Security,1,0,Medium,Undergraduate,3,14,Very interested,0,0.5
+L0583,Facebook,MBA,1,0,Medium,Graduate,1,5,Mildly interested,0,0.5
+L0584,Facebook,Web Dev,1,0,Low,Undergraduate,2,12,Very interested,0,0.0
+L0585,Website,AI,0,0,Medium,Undergraduate,1,5,Just exploring,0,0.0
+L0586,Instagram,MBA,1,1,Medium,Graduate,2,11,Mildly interested,0,0.0
+L0587,Referral,Data Science,1,0,Medium,Undergraduate,1,4,Mildly interested,0,0.0
+L0588,Facebook,Data Science,1,0,Medium,Postgraduate,2,3,Mildly interested,0,1.0
+L0589,Referral,MBA,1,1,Low,Undergraduate,2,5,Very interested,0,7.000000000000001
+L0590,Facebook,MBA,0,0,Low,Undergraduate,3,14,Just exploring,0,0.0
+L0591,Facebook,MBA,1,1,Medium,Undergraduate,1,11,Mildly interested,0,1.5
+L0592,Facebook,Data Science,0,0,Low,Graduate,1,4,Mildly interested,0,0.0
+L0593,Instagram,Data Science,1,1,Low,Graduate,1,8,Very interested,0,0.0
+L0594,Google Ads,MBA,0,0,High,Graduate,2,4,Mildly interested,0,0.0
+L0595,Referral,Cyber Security,0,0,Medium,Undergraduate,1,11,Very interested,0,0.0
+L0596,Instagram,Cyber Security,1,0,Medium,Undergraduate,3,12,Mildly interested,0,0.5
+L0597,Instagram,Web Dev,0,0,High,Graduate,2,8,Very interested,0,0.0
+L0598,Instagram,AI,1,0,High,Postgraduate,2,6,Just exploring,0,0.0
+L0599,Instagram,Cyber Security,0,1,Medium,Postgraduate,2,14,Very interested,0,0.0
+L0600,Instagram,Data Science,1,1,High,Undergraduate,1,12,Just exploring,0,0.0
+L0601,Website,Cyber Security,1,1,Medium,Graduate,1,11,Just exploring,0,0.0
+L0602,Referral,Web Dev,1,1,Medium,Postgraduate,2,5,Very interested,1,79.5
+L0603,Instagram,Web Dev,0,0,Medium,Undergraduate,2,4,Mildly interested,0,0.0
+L0604,Referral,AI,0,0,Medium,Postgraduate,1,4,Very interested,0,0.0
+L0605,Website,Cyber Security,0,0,Medium,Undergraduate,1,12,Mildly interested,0,0.0
+L0606,Website,Data Science,0,0,Medium,Postgraduate,3,4,Just exploring,0,0.0
+L0607,Referral,Data Science,1,1,Low,Graduate,1,11,Mildly interested,0,0.0
+L0608,Facebook,MBA,1,1,Medium,Postgraduate,3,13,Mildly interested,0,0.5
+L0609,Google Ads,Data Science,1,0,Low,Graduate,2,13,Very interested,0,0.0
+L0610,Facebook,AI,1,0,Medium,Undergraduate,1,9,Mildly interested,0,0.0
+L0611,Facebook,AI,1,1,Medium,Postgraduate,1,4,Very interested,1,94.0
+L0612,Facebook,Data Science,1,1,Medium,Undergraduate,1,12,Just exploring,0,0.0
+L0613,Instagram,Data Science,0,0,Medium,Undergraduate,2,9,Mildly interested,0,0.0
+L0614,Website,MBA,1,1,High,Graduate,2,13,Just exploring,0,0.5
+L0615,Facebook,Data Science,1,1,Medium,Graduate,2,10,Very interested,0,0.0
+L0616,Website,MBA,1,0,Medium,Postgraduate,3,6,Mildly interested,0,0.0
+L0617,Referral,MBA,0,0,Medium,Undergraduate,2,10,Mildly interested,0,0.0
+L0618,Google Ads,Data Science,1,1,Low,Graduate,1,13,Very interested,0,0.0
+L0619,Referral,Web Dev,1,1,Low,Graduate,1,7,Mildly interested,0,0.5
+L0620,Referral,Web Dev,1,1,Low,Undergraduate,3,12,Just exploring,0,0.0
+L0621,Instagram,MBA,1,0,Medium,Undergraduate,1,10,Just exploring,0,0.0
+L0622,Google Ads,Data Science,0,0,Medium,Undergraduate,1,3,Mildly interested,0,0.0
+L0623,Referral,Web Dev,1,1,High,Undergraduate,2,8,Mildly interested,0,4.0
+L0624,Referral,Data Science,0,1,Low,Postgraduate,2,3,Very interested,0,0.0
+L0625,Google Ads,Data Science,1,0,Low,Graduate,3,1,Just exploring,0,0.0
+L0626,Google Ads,Data Science,0,1,High,Graduate,2,13,Very interested,0,0.0
+L0627,Referral,Cyber Security,1,1,Low,Postgraduate,1,13,Not interested,0,0.5
+L0628,Google Ads,Data Science,1,1,Medium,Undergraduate,3,10,Mildly interested,0,0.0
+L0629,Referral,Cyber Security,0,1,Medium,Postgraduate,1,12,Mildly interested,0,0.0
+L0630,Referral,MBA,1,1,Medium,Graduate,2,5,Not interested,0,28.000000000000004
+L0631,Instagram,Web Dev,0,0,Low,Postgraduate,2,2,Very interested,0,0.0
+L0632,Facebook,Web Dev,1,1,Low,Undergraduate,1,10,Mildly interested,0,0.0
+L0633,Referral,Web Dev,1,0,Low,Postgraduate,2,14,Mildly interested,0,0.0
+L0634,Website,Web Dev,1,1,Medium,Undergraduate,1,6,Very interested,1,89.0
+L0635,Facebook,Web Dev,0,0,Medium,Undergraduate,2,13,Mildly interested,0,0.0
+L0636,Facebook,Web Dev,1,1,Low,Graduate,2,10,Mildly interested,0,0.0
+L0637,Facebook,Web Dev,1,0,Medium,Undergraduate,2,9,Just exploring,0,0.0
+L0638,Instagram,MBA,0,0,High,Graduate,3,1,Very interested,0,0.5
+L0639,Referral,Data Science,1,0,Low,Graduate,1,14,Not interested,0,0.0
+L0640,Instagram,AI,0,0,Medium,Graduate,2,13,Very interested,0,0.0
+L0641,Referral,Cyber Security,1,1,Medium,Undergraduate,2,4,Very interested,1,84.0
+L0642,Instagram,AI,0,1,Low,Undergraduate,1,1,Very interested,0,0.5
+L0643,Instagram,AI,1,1,Medium,Undergraduate,2,1,Very interested,1,98.0
+L0644,Website,Data Science,1,0,Medium,Graduate,2,8,Very interested,0,0.0
+L0645,Instagram,Data Science,0,0,High,Undergraduate,1,14,Not interested,0,0.0
+L0646,Google Ads,Data Science,0,0,High,Undergraduate,2,14,Mildly interested,0,0.0
+L0647,Website,Web Dev,0,0,Medium,Undergraduate,1,13,Very interested,0,0.0
+L0648,Instagram,MBA,1,1,Medium,Undergraduate,2,14,Very interested,0,0.0
+L0649,Facebook,Web Dev,0,0,Medium,Graduate,1,11,Just exploring,0,0.0
+L0650,Google Ads,MBA,1,0,Medium,Postgraduate,3,2,Just exploring,0,0.0
+L0651,Google Ads,MBA,0,0,Medium,Undergraduate,2,1,Very interested,0,0.0
+L0652,Google Ads,AI,0,0,Low,Graduate,2,11,Very interested,0,0.0
+L0653,Website,AI,1,1,Medium,Graduate,2,8,Very interested,0,1.5
+L0654,Instagram,MBA,0,1,Medium,Graduate,3,4,Very interested,0,2.0
+L0655,Instagram,MBA,1,0,Medium,Graduate,2,3,Very interested,0,0.0
+L0656,Facebook,Web Dev,1,0,High,Graduate,1,13,Mildly interested,0,0.0
+L0657,Facebook,Web Dev,1,0,Low,Graduate,2,12,Very interested,0,0.0
+L0658,Google Ads,AI,1,0,Medium,Undergraduate,3,4,Mildly interested,0,0.0
+L0659,Facebook,Data Science,1,0,Low,Graduate,2,14,Very interested,0,0.0
+L0660,Website,MBA,0,1,Medium,Graduate,2,11,Not interested,0,0.0
+L0661,Instagram,Web Dev,0,1,Medium,Undergraduate,3,5,Not interested,0,6.5
+L0662,Google Ads,AI,0,1,Medium,Undergraduate,3,1,Mildly interested,0,1.5
+L0663,Facebook,Web Dev,1,0,Medium,Postgraduate,3,14,Mildly interested,0,0.0
+L0664,Website,MBA,0,0,Medium,Graduate,1,11,Mildly interested,0,0.0
+L0665,Website,MBA,1,1,Medium,Graduate,2,1,Mildly interested,1,93.0
+L0666,Facebook,Cyber Security,1,1,Medium,Postgraduate,2,3,Just exploring,0,5.5
+L0667,Instagram,Data Science,1,1,Medium,Graduate,2,6,Mildly interested,1,97.0
+L0668,Facebook,Cyber Security,1,0,High,Graduate,2,1,Just exploring,0,0.5
+L0669,Google Ads,AI,0,1,Low,Graduate,1,14,Not interested,0,0.0
+L0670,Facebook,Web Dev,1,0,Low,Postgraduate,2,11,Mildly interested,0,0.0
+L0671,Website,AI,1,1,Medium,Graduate,2,12,Mildly interested,0,0.5
+L0672,Facebook,MBA,0,1,High,Graduate,1,2,Very interested,0,2.5
+L0673,Instagram,Cyber Security,0,1,Medium,Undergraduate,2,12,Very interested,0,0.0
+L0674,Referral,Cyber Security,1,0,Low,Postgraduate,1,14,Mildly interested,0,0.0
+L0675,Facebook,Cyber Security,1,1,Medium,Graduate,2,7,Very interested,0,1.0
+L0676,Instagram,AI,1,0,Medium,Undergraduate,1,14,Just exploring,0,0.0
+L0677,Instagram,MBA,1,0,Low,Postgraduate,2,14,Very interested,0,0.0
+L0678,Website,Web Dev,1,0,Medium,Graduate,2,1,Mildly interested,0,2.5
+L0679,Instagram,Web Dev,1,1,High,Undergraduate,2,13,Mildly interested,0,2.0
+L0680,Instagram,AI,1,0,Medium,Graduate,2,14,Mildly interested,0,0.0
+L0681,Instagram,Cyber Security,0,0,Medium,Graduate,3,7,Mildly interested,0,0.0
+L0682,Instagram,Data Science,1,1,Medium,Postgraduate,1,4,Just exploring,0,8.5
+L0683,Google Ads,AI,1,0,Low,Undergraduate,1,10,Mildly interested,0,0.0
+L0684,Google Ads,AI,1,1,High,Postgraduate,3,14,Mildly interested,0,1.5
+L0685,Website,MBA,1,0,Medium,Graduate,1,6,Very interested,0,1.0
+L0686,Facebook,Web Dev,1,0,Medium,Undergraduate,3,14,Mildly interested,0,0.0
+L0687,Instagram,AI,1,1,Medium,Postgraduate,3,8,Just exploring,0,0.5
+L0688,Facebook,AI,1,0,Medium,Graduate,2,9,Mildly interested,0,0.0
+L0689,Facebook,Cyber Security,1,0,Medium,Undergraduate,3,6,Just exploring,0,0.5
+L0690,Website,Cyber Security,1,1,Low,Graduate,1,12,Mildly interested,0,0.0
+L0691,Instagram,Data Science,0,1,High,Postgraduate,2,11,Very interested,0,0.0
+L0692,Instagram,MBA,1,1,High,Undergraduate,2,13,Very interested,0,0.5
+L0693,Referral,Data Science,0,0,Medium,Undergraduate,2,14,Mildly interested,0,0.0
+L0694,Facebook,Cyber Security,0,0,High,Undergraduate,3,9,Mildly interested,0,0.0
+L0695,Facebook,Web Dev,1,1,Low,Undergraduate,1,4,Just exploring,0,3.5000000000000004
+L0696,Google Ads,Cyber Security,1,1,Medium,Graduate,2,6,Very interested,1,90.0
+L0697,Referral,MBA,1,1,Medium,Graduate,2,8,Mildly interested,0,0.5
+L0698,Google Ads,Cyber Security,1,1,Medium,Undergraduate,2,9,Mildly interested,0,1.0
+L0699,Google Ads,MBA,1,1,Medium,Undergraduate,1,3,Mildly interested,1,94.0
+L0700,Google Ads,MBA,1,0,Medium,Undergraduate,2,2,Very interested,0,0.5
+L0701,Website,MBA,1,0,Low,Postgraduate,3,6,Very interested,0,0.0
+L0702,Website,MBA,0,1,Medium,Undergraduate,1,4,Very interested,0,1.5
+L0703,Google Ads,MBA,0,0,Low,Postgraduate,3,1,Very interested,0,0.0
+L0704,Referral,Web Dev,0,0,Medium,Graduate,2,8,Very interested,0,0.0
+L0705,Facebook,Data Science,1,1,Low,Undergraduate,2,9,Very interested,0,0.0
+L0706,Referral,AI,0,1,Low,Postgraduate,2,14,Mildly interested,0,0.0
+L0707,Instagram,Data Science,0,0,Medium,Graduate,1,9,Mildly interested,0,0.0
+L0708,Website,MBA,0,0,Medium,Graduate,2,2,Not interested,0,0.0
+L0709,Facebook,Web Dev,1,0,High,Postgraduate,3,9,Very interested,0,0.0
+L0710,Facebook,Cyber Security,0,1,Medium,Undergraduate,2,7,Mildly interested,0,0.0
+L0711,Instagram,Web Dev,1,1,Medium,Undergraduate,3,5,Mildly interested,1,95.0
+L0712,Instagram,MBA,0,0,High,Graduate,2,7,Very interested,0,0.0
+L0713,Google Ads,Web Dev,1,0,Medium,Undergraduate,1,13,Just exploring,0,0.0
+L0714,Website,Web Dev,0,1,Low,Undergraduate,2,9,Very interested,0,0.5
+L0715,Website,MBA,0,0,Medium,Undergraduate,3,8,Not interested,0,0.0
+L0716,Referral,Web Dev,1,1,High,Undergraduate,2,6,Just exploring,0,16.0
+L0717,Google Ads,AI,0,1,Medium,Graduate,3,13,Mildly interested,0,0.0
+L0718,Google Ads,AI,0,0,Low,Undergraduate,3,4,Mildly interested,0,0.0
+L0719,Google Ads,Web Dev,0,1,Low,Graduate,2,13,Mildly interested,0,0.0
+L0720,Google Ads,Cyber Security,0,0,Low,Graduate,1,1,Mildly interested,0,0.0
+L0721,Website,MBA,0,0,Medium,Graduate,2,6,Mildly interested,0,0.0
+L0722,Website,AI,0,1,Medium,Undergraduate,2,3,Very interested,0,6.0
+L0723,Google Ads,Cyber Security,1,0,Low,Graduate,2,6,Very interested,0,0.0
+L0724,Referral,Web Dev,1,1,High,Undergraduate,2,6,Mildly interested,1,77.0
+L0725,Facebook,Cyber Security,1,1,Medium,Graduate,2,14,Mildly interested,0,0.5
+L0726,Facebook,Data Science,0,0,Medium,Postgraduate,2,4,Just exploring,0,0.0
+L0727,Referral,AI,1,0,High,Graduate,2,2,Very interested,0,1.0
+L0728,Google Ads,Web Dev,0,0,Low,Graduate,2,9,Just exploring,0,0.0
+L0729,Website,MBA,0,0,Medium,Graduate,2,2,Very interested,0,0.0
+L0730,Facebook,Web Dev,1,0,Medium,Undergraduate,2,3,Mildly interested,0,0.0
+L0731,Instagram,MBA,0,0,High,Postgraduate,2,10,Mildly interested,0,0.0
+L0732,Instagram,Web Dev,0,0,Medium,Postgraduate,3,1,Mildly interested,0,0.0
+L0733,Referral,Cyber Security,1,1,Low,Undergraduate,2,7,Very interested,0,0.0
+L0734,Google Ads,Cyber Security,1,1,High,Graduate,2,1,Mildly interested,1,83.5
+L0735,Facebook,Cyber Security,1,1,Low,Postgraduate,2,11,Just exploring,0,0.0
+L0736,Google Ads,Data Science,1,0,High,Postgraduate,1,9,Mildly interested,0,0.0
+L0737,Facebook,MBA,1,0,High,Graduate,1,11,Mildly interested,0,0.0
+L0738,Referral,Cyber Security,0,1,Low,Graduate,3,11,Just exploring,0,0.0
+L0739,Referral,Data Science,0,0,Medium,Undergraduate,2,1,Just exploring,0,0.0
+L0740,Instagram,MBA,0,0,Low,Postgraduate,2,5,Mildly interested,0,0.0
+L0741,Google Ads,Web Dev,1,1,Medium,Undergraduate,2,7,Very interested,0,3.0
+L0742,Instagram,Data Science,1,1,Medium,Graduate,1,3,Just exploring,0,16.5
+L0743,Google Ads,AI,1,1,Medium,Undergraduate,2,9,Mildly interested,0,0.5
+L0744,Instagram,Data Science,1,0,High,Undergraduate,2,8,Very interested,0,0.0
+L0745,Website,Data Science,1,1,Medium,Graduate,2,13,Very interested,0,0.0
+L0746,Website,MBA,0,1,Medium,Postgraduate,2,3,Just exploring,0,0.0
+L0747,Website,Web Dev,1,1,High,Undergraduate,1,5,Very interested,1,83.5
+L0748,Website,AI,1,1,High,Graduate,1,7,Not interested,0,1.5
+L0749,Facebook,Cyber Security,1,1,Low,Undergraduate,3,12,Very interested,0,1.0
+L0750,Website,Cyber Security,0,1,High,Undergraduate,2,14,Just exploring,0,0.5
+L0751,Referral,Data Science,1,0,Low,Graduate,2,4,Mildly interested,0,0.0
+L0752,Referral,MBA,0,1,High,Graduate,1,5,Mildly interested,0,2.0
+L0753,Facebook,MBA,0,1,Low,Undergraduate,1,3,Just exploring,0,0.0
+L0754,Website,Cyber Security,0,1,Low,Undergraduate,2,9,Mildly interested,0,0.0
+L0755,Website,AI,1,0,Medium,Undergraduate,2,10,Mildly interested,0,0.0
+L0756,Website,Web Dev,1,0,Medium,Undergraduate,2,9,Very interested,0,0.0
+L0757,Instagram,AI,0,1,Medium,Postgraduate,1,7,Very interested,0,1.0
+L0758,Google Ads,Web Dev,0,1,Low,Postgraduate,2,10,Very interested,0,0.0
+L0759,Instagram,Cyber Security,1,1,Medium,Undergraduate,1,2,Mildly interested,1,99.5
+L0760,Google Ads,Web Dev,0,1,High,Graduate,1,7,Very interested,0,0.5
+L0761,Website,MBA,0,1,Medium,Postgraduate,2,7,Very interested,0,0.0
+L0762,Website,Data Science,1,1,Low,Undergraduate,1,11,Mildly interested,0,0.0
+L0763,Instagram,Data Science,1,1,Medium,Postgraduate,1,5,Mildly interested,1,91.0
+L0764,Instagram,Cyber Security,0,1,Low,Postgraduate,2,9,Just exploring,0,0.0
+L0765,Google Ads,MBA,0,1,High,Undergraduate,2,13,Very interested,0,0.0
+L0766,Referral,AI,0,0,High,Undergraduate,3,12,Very interested,0,0.5
+L0767,Google Ads,MBA,1,0,Medium,Postgraduate,2,11,Not interested,0,0.0
+L0768,Instagram,Data Science,1,1,Medium,Graduate,1,3,Very interested,1,91.0
+L0769,Instagram,Data Science,1,0,Medium,Undergraduate,1,4,Just exploring,0,0.0
+L0770,Facebook,MBA,0,0,Medium,Undergraduate,3,1,Just exploring,0,0.0
+L0771,Instagram,MBA,1,0,High,Graduate,2,6,Just exploring,0,0.0
+L0772,Facebook,Data Science,0,0,Medium,Graduate,2,4,Very interested,0,0.0
+L0773,Referral,AI,1,0,Medium,Graduate,1,1,Just exploring,0,0.0
+L0774,Google Ads,Cyber Security,1,0,Medium,Postgraduate,2,2,Just exploring,0,0.0
+L0775,Google Ads,Cyber Security,1,1,Medium,Undergraduate,1,3,Mildly interested,1,98.0
+L0776,Facebook,MBA,1,1,High,Graduate,2,9,Mildly interested,0,0.0
+L0777,Google Ads,Cyber Security,1,0,Medium,Graduate,3,13,Very interested,0,0.0
+L0778,Instagram,Data Science,0,0,Medium,Graduate,3,8,Very interested,0,0.0
+L0779,Website,Data Science,1,1,Low,Undergraduate,2,7,Mildly interested,0,0.0
+L0780,Facebook,MBA,0,0,Medium,Postgraduate,2,13,Mildly interested,0,0.0
+L0781,Google Ads,MBA,1,1,Medium,Postgraduate,3,11,Mildly interested,0,0.5
+L0782,Facebook,MBA,0,1,Low,Graduate,2,12,Mildly interested,0,0.0
+L0783,Facebook,AI,0,1,Low,Graduate,1,14,Mildly interested,0,0.0
+L0784,Website,Cyber Security,1,0,Medium,Undergraduate,2,4,Mildly interested,0,0.0
+L0785,Instagram,MBA,0,1,Medium,Graduate,1,1,Not interested,0,0.0
+L0786,Facebook,Web Dev,1,0,Medium,Graduate,2,8,Very interested,0,0.0
+L0787,Google Ads,Web Dev,1,1,Low,Graduate,2,4,Mildly interested,0,4.0
+L0788,Referral,Data Science,0,1,Medium,Postgraduate,2,3,Very interested,0,5.0
+L0789,Facebook,Cyber Security,0,0,Low,Graduate,2,9,Mildly interested,0,0.0
+L0790,Facebook,MBA,1,0,Medium,Undergraduate,1,10,Just exploring,0,0.0
+L0791,Website,Web Dev,0,0,Low,Graduate,2,4,Not interested,0,0.0
+L0792,Instagram,Cyber Security,1,1,Low,Undergraduate,3,4,Very interested,0,7.5
+L0793,Referral,Data Science,1,0,Low,Undergraduate,2,14,Not interested,0,0.0
+L0794,Google Ads,AI,1,1,Medium,Undergraduate,2,9,Very interested,0,1.5
+L0795,Referral,Cyber Security,1,0,Low,Graduate,3,13,Mildly interested,0,0.0
+L0796,Google Ads,Cyber Security,1,1,Medium,Graduate,3,12,Very interested,0,0.0
+L0797,Instagram,AI,1,1,Medium,Graduate,1,11,Just exploring,0,0.0
+L0798,Google Ads,Cyber Security,0,1,Medium,Graduate,1,12,Mildly interested,0,0.0
+L0799,Website,Data Science,0,1,Medium,Graduate,2,14,Mildly interested,0,0.0
+L0800,Website,Data Science,1,0,High,Undergraduate,3,2,Just exploring,0,0.5
+L0801,Website,AI,1,0,Low,Postgraduate,3,14,Very interested,0,0.0
+L0802,Website,MBA,1,1,Medium,Undergraduate,3,12,Very interested,0,0.0
+L0803,Referral,Web Dev,1,0,Low,Undergraduate,2,5,Just exploring,0,0.0
+L0804,Instagram,MBA,1,0,Low,Graduate,2,4,Mildly interested,0,0.0
+L0805,Google Ads,Cyber Security,1,0,Medium,Undergraduate,1,9,Very interested,0,0.0
+L0806,Google Ads,Web Dev,1,0,Medium,Undergraduate,1,12,Mildly interested,0,0.0
+L0807,Website,AI,0,0,High,Graduate,2,5,Mildly interested,0,0.0
+L0808,Website,AI,1,1,Medium,Graduate,2,9,Very interested,0,1.5
+L0809,Facebook,Web Dev,0,0,High,Graduate,2,11,Very interested,0,0.0
+L0810,Instagram,Data Science,1,1,Low,Postgraduate,2,9,Very interested,0,0.0
+L0811,Referral,Web Dev,1,0,Low,Graduate,1,14,Mildly interested,0,0.0
+L0812,Google Ads,Cyber Security,1,1,Low,Postgraduate,2,2,Just exploring,0,1.0
+L0813,Facebook,Data Science,0,0,Low,Undergraduate,1,14,Not interested,0,0.0
+L0814,Facebook,AI,0,1,Medium,Graduate,2,9,Mildly interested,0,0.0
+L0815,Google Ads,Web Dev,1,1,Medium,Postgraduate,2,3,Very interested,1,96.0
+L0816,Referral,MBA,0,0,Low,Graduate,2,4,Not interested,0,0.0
+L0817,Facebook,MBA,1,1,High,Graduate,3,1,Mildly interested,1,59.0
+L0818,Facebook,Cyber Security,0,1,High,Undergraduate,1,14,Very interested,0,0.0
+L0819,Instagram,MBA,0,1,Low,Undergraduate,2,1,Not interested,0,0.0
+L0820,Referral,Web Dev,0,1,Low,Graduate,2,1,Just exploring,0,0.0
+L0821,Facebook,Web Dev,1,0,Low,Undergraduate,2,9,Just exploring,0,0.0
+L0822,Referral,MBA,1,1,Low,Postgraduate,3,11,Just exploring,0,0.5
+L0823,Google Ads,Web Dev,0,0,Low,Undergraduate,2,8,Very interested,0,0.0
+L0824,Website,Cyber Security,0,0,Medium,Postgraduate,3,5,Very interested,0,0.5
+L0825,Facebook,Data Science,1,1,Low,Postgraduate,1,5,Mildly interested,0,2.0
+L0826,Instagram,Cyber Security,0,0,Medium,Undergraduate,3,9,Very interested,0,0.5
+L0827,Google Ads,Cyber Security,1,1,High,Undergraduate,1,3,Mildly interested,1,51.5
+L0828,Referral,Web Dev,1,1,Medium,Postgraduate,3,3,Just exploring,0,11.0
+L0829,Google Ads,Data Science,0,1,High,Postgraduate,2,7,Just exploring,0,0.5
+L0830,Facebook,Web Dev,0,1,Low,Graduate,2,9,Mildly interested,0,0.0
+L0831,Referral,AI,1,0,Medium,Undergraduate,2,6,Just exploring,0,0.0
+L0832,Website,Web Dev,1,0,Medium,Graduate,3,14,Just exploring,0,0.0
+L0833,Google Ads,Web Dev,1,0,Low,Graduate,1,2,Mildly interested,0,0.0
+L0834,Facebook,Web Dev,0,0,Low,Undergraduate,2,1,Very interested,0,0.0
+L0835,Instagram,Data Science,1,0,Medium,Graduate,3,2,Very interested,0,0.0
+L0836,Referral,Web Dev,0,0,Medium,Undergraduate,2,14,Mildly interested,0,0.0
+L0837,Google Ads,Data Science,1,1,Medium,Undergraduate,1,14,Very interested,0,0.0
+L0838,Google Ads,MBA,1,1,Medium,Undergraduate,2,1,Very interested,1,83.0
+L0839,Website,AI,0,0,Medium,Undergraduate,2,10,Very interested,0,0.0
+L0840,Website,Data Science,0,1,Low,Undergraduate,3,10,Mildly interested,0,0.0
+L0841,Instagram,MBA,0,0,Medium,Graduate,2,9,Not interested,0,0.0
+L0842,Instagram,Data Science,0,0,Low,Undergraduate,2,10,Very interested,0,0.0
+L0843,Facebook,Data Science,0,1,Low,Undergraduate,3,12,Just exploring,0,0.0
+L0844,Facebook,AI,0,1,High,Undergraduate,2,14,Mildly interested,0,0.0
+L0845,Instagram,Cyber Security,1,1,Medium,Postgraduate,1,13,Very interested,0,1.5
+L0846,Instagram,Cyber Security,1,0,Medium,Graduate,1,8,Not interested,0,0.0
+L0847,Referral,Data Science,0,1,Medium,Graduate,2,7,Mildly interested,0,0.0
+L0848,Website,Web Dev,1,1,Medium,Graduate,1,3,Mildly interested,1,88.5
+L0849,Facebook,MBA,0,1,Low,Postgraduate,3,8,Just exploring,0,0.0
+L0850,Website,Web Dev,1,1,Low,Undergraduate,2,2,Very interested,0,17.0
+L0851,Website,Web Dev,0,1,Low,Graduate,1,2,Mildly interested,0,0.0
+L0852,Instagram,Data Science,1,1,Medium,Graduate,2,11,Very interested,0,0.0
+L0853,Referral,Data Science,1,1,Medium,Graduate,2,10,Just exploring,0,0.0
+L0854,Google Ads,Data Science,1,1,Medium,Undergraduate,3,3,Mildly interested,1,95.5
+L0855,Referral,Data Science,1,1,Medium,Graduate,3,7,Mildly interested,0,1.0
+L0856,Referral,Cyber Security,0,0,High,Undergraduate,2,1,Very interested,0,0.0
+L0857,Website,Data Science,1,1,Low,Graduate,2,8,Mildly interested,0,0.0
+L0858,Referral,Cyber Security,0,0,Low,Graduate,2,12,Just exploring,0,0.0
+L0859,Facebook,Cyber Security,0,0,Medium,Undergraduate,2,7,Mildly interested,0,0.0
+L0860,Website,Data Science,0,1,Medium,Postgraduate,1,4,Mildly interested,0,1.5
+L0861,Facebook,AI,1,1,High,Undergraduate,1,14,Mildly interested,0,1.5
+L0862,Google Ads,MBA,0,1,Low,Postgraduate,2,5,Just exploring,0,0.0
+L0863,Website,Web Dev,1,0,High,Graduate,1,10,Mildly interested,0,0.5
+L0864,Google Ads,Cyber Security,1,1,High,Undergraduate,1,13,Just exploring,0,0.0
+L0865,Website,MBA,1,0,Low,Undergraduate,2,1,Just exploring,0,0.0
+L0866,Instagram,AI,1,1,Medium,Postgraduate,1,4,Mildly interested,1,92.0
+L0867,Referral,Web Dev,1,1,Medium,Undergraduate,2,1,Very interested,1,78.5
+L0868,Instagram,Web Dev,0,1,High,Undergraduate,2,1,Mildly interested,0,2.0
+L0869,Google Ads,Cyber Security,0,1,Low,Undergraduate,3,10,Just exploring,0,0.0
+L0870,Referral,Data Science,0,1,Medium,Graduate,2,1,Very interested,0,1.5
+L0871,Website,AI,0,1,Medium,Graduate,1,7,Mildly interested,0,0.0
+L0872,Referral,Cyber Security,0,0,Medium,Undergraduate,2,7,Just exploring,0,0.0
+L0873,Facebook,AI,0,0,Medium,Undergraduate,3,4,Mildly interested,0,0.0
+L0874,Referral,Data Science,1,1,Medium,Undergraduate,3,13,Mildly interested,0,0.0
+L0875,Facebook,Data Science,1,1,High,Undergraduate,2,12,Very interested,0,0.0
+L0876,Referral,Cyber Security,0,0,High,Graduate,2,2,Very interested,0,0.0
+L0877,Facebook,Data Science,1,1,High,Graduate,3,12,Just exploring,0,1.0
+L0878,Google Ads,MBA,0,0,Low,Undergraduate,1,3,Very interested,0,0.0
+L0879,Instagram,Web Dev,1,1,Medium,Undergraduate,2,8,Very interested,0,0.5
+L0880,Website,Cyber Security,1,1,Low,Undergraduate,2,13,Just exploring,0,0.0
+L0881,Referral,AI,1,1,Medium,Postgraduate,1,8,Mildly interested,0,2.0
+L0882,Instagram,MBA,1,1,Medium,Postgraduate,2,11,Not interested,0,0.0
+L0883,Website,Cyber Security,1,0,Medium,Postgraduate,1,11,Not interested,0,0.0
+L0884,Website,Data Science,1,0,Medium,Undergraduate,2,6,Very interested,0,2.0
+L0885,Facebook,Data Science,1,1,High,Undergraduate,3,10,Very interested,0,6.0
+L0886,Google Ads,Data Science,1,1,Low,Undergraduate,1,9,Just exploring,0,0.0
+L0887,Google Ads,Data Science,1,0,Medium,Undergraduate,3,11,Mildly interested,0,0.0
+L0888,Instagram,AI,0,1,Medium,Graduate,1,12,Very interested,0,0.0
+L0889,Google Ads,MBA,0,0,Low,Graduate,2,9,Just exploring,0,0.0
+L0890,Referral,Web Dev,0,1,Low,Postgraduate,1,4,Very interested,0,0.0
+L0891,Google Ads,AI,1,1,High,Postgraduate,3,12,Just exploring,0,1.0
+L0892,Instagram,AI,1,0,High,Undergraduate,2,1,Very interested,0,1.0
+L0893,Google Ads,Web Dev,0,0,High,Graduate,2,1,Very interested,0,0.5
+L0894,Referral,Web Dev,1,1,High,Undergraduate,3,12,Very interested,0,8.5
+L0895,Facebook,Data Science,1,1,Low,Undergraduate,2,10,Not interested,0,0.0
+L0896,Instagram,AI,1,1,Medium,Graduate,3,5,Mildly interested,1,93.0
+L0897,Facebook,Cyber Security,1,1,Medium,Undergraduate,2,14,Just exploring,0,0.0
+L0898,Facebook,Web Dev,1,1,Medium,Graduate,3,13,Mildly interested,0,1.5
+L0899,Facebook,Web Dev,0,1,Medium,Undergraduate,2,2,Mildly interested,0,1.5
+L0900,Website,MBA,1,1,Medium,Graduate,1,6,Very interested,1,72.0
+L0901,Website,Cyber Security,0,0,Medium,Graduate,2,7,Mildly interested,0,0.0
+L0902,Facebook,Cyber Security,1,0,Medium,Undergraduate,1,1,Mildly interested,0,1.5
+L0903,Instagram,Web Dev,0,0,Low,Postgraduate,2,6,Mildly interested,0,0.0
+L0904,Referral,Data Science,1,1,Medium,Undergraduate,2,8,Very interested,0,0.0
+L0905,Referral,MBA,1,0,Medium,Graduate,2,12,Not interested,0,0.0
+L0906,Google Ads,Cyber Security,0,1,Medium,Graduate,1,5,Very interested,0,1.5
+L0907,Instagram,Web Dev,1,1,Low,Graduate,1,14,Not interested,0,0.0
+L0908,Website,Cyber Security,1,1,Medium,Postgraduate,2,12,Very interested,0,0.0
+L0909,Facebook,MBA,1,0,Low,Undergraduate,3,7,Mildly interested,0,0.5
+L0910,Google Ads,MBA,1,0,Medium,Graduate,2,10,Mildly interested,0,0.0
+L0911,Referral,AI,1,0,Medium,Graduate,2,6,Mildly interested,0,1.5
+L0912,Website,Web Dev,0,0,Medium,Postgraduate,2,4,Mildly interested,0,0.0
+L0913,Website,MBA,0,0,Low,Undergraduate,2,7,Mildly interested,0,0.0
+L0914,Facebook,AI,0,1,Medium,Graduate,1,10,Mildly interested,0,0.0
+L0915,Referral,AI,1,1,Medium,Graduate,2,9,Just exploring,0,0.0
+L0916,Instagram,Cyber Security,0,1,Medium,Undergraduate,1,10,Mildly interested,0,0.0
+L0917,Website,Cyber Security,1,1,Medium,Graduate,3,10,Just exploring,0,0.5
+L0918,Facebook,AI,1,0,Medium,Undergraduate,1,13,Very interested,0,0.0
+L0919,Instagram,Cyber Security,1,1,Medium,Graduate,2,7,Mildly interested,0,0.0
+L0920,Referral,MBA,1,1,Low,Postgraduate,1,12,Mildly interested,0,0.5
+L0921,Website,Data Science,1,0,Low,Graduate,1,14,Mildly interested,0,0.0
+L0922,Instagram,MBA,1,1,Medium,Graduate,2,5,Mildly interested,1,89.0
+L0923,Instagram,AI,1,0,Medium,Graduate,1,7,Mildly interested,0,0.0
+L0924,Instagram,AI,1,1,Medium,Undergraduate,1,3,Very interested,1,93.0
+L0925,Website,MBA,1,1,Low,Undergraduate,2,2,Very interested,0,10.5
+L0926,Website,Cyber Security,1,0,Low,Graduate,1,11,Very interested,0,0.0
+L0927,Google Ads,Cyber Security,0,1,Medium,Undergraduate,1,5,Mildly interested,0,1.0
+L0928,Referral,AI,0,1,Low,Undergraduate,3,4,Mildly interested,0,0.5
+L0929,Facebook,Web Dev,1,1,Medium,Graduate,2,5,Not interested,0,20.0
+L0930,Instagram,Cyber Security,1,0,Low,Undergraduate,3,8,Just exploring,0,0.0
+L0931,Google Ads,MBA,1,1,Medium,Undergraduate,3,12,Very interested,0,0.5
+L0932,Facebook,Cyber Security,1,0,High,Graduate,2,4,Just exploring,0,0.0
+L0933,Google Ads,MBA,0,0,Low,Undergraduate,1,9,Just exploring,0,0.0
+L0934,Website,AI,1,0,Medium,Postgraduate,2,7,Mildly interested,0,0.0
+L0935,Instagram,Cyber Security,1,1,Low,Postgraduate,3,10,Mildly interested,0,0.0
+L0936,Facebook,MBA,1,1,Medium,Graduate,2,13,Not interested,0,0.0
+L0937,Facebook,AI,1,1,Medium,Undergraduate,2,12,Mildly interested,0,1.0
+L0938,Facebook,Web Dev,1,1,Medium,Graduate,1,7,Not interested,0,0.5
+L0939,Facebook,MBA,0,0,Medium,Postgraduate,3,13,Very interested,0,0.0
+L0940,Facebook,Web Dev,1,0,High,Graduate,2,13,Very interested,0,0.0
+L0941,Google Ads,Web Dev,1,0,Low,Undergraduate,3,8,Mildly interested,0,0.0
+L0942,Instagram,Data Science,1,0,Low,Graduate,1,12,Mildly interested,0,0.0
+L0943,Website,Cyber Security,1,0,High,Postgraduate,1,6,Just exploring,0,2.0
+L0944,Website,MBA,0,0,Medium,Graduate,1,8,Not interested,0,0.0
+L0945,Website,Web Dev,0,0,High,Graduate,2,3,Mildly interested,0,0.0
+L0946,Website,Data Science,0,0,Medium,Graduate,1,10,Very interested,0,0.0
+L0947,Google Ads,AI,1,0,High,Graduate,1,10,Just exploring,0,0.5
+L0948,Referral,MBA,0,0,Medium,Undergraduate,3,14,Mildly interested,0,0.0
+L0949,Instagram,Web Dev,0,1,Medium,Graduate,1,1,Very interested,0,4.5
+L0950,Facebook,Cyber Security,1,1,High,Undergraduate,3,6,Mildly interested,1,74.5
+L0951,Referral,Data Science,0,1,Medium,Graduate,2,1,Just exploring,0,0.0
+L0952,Website,Web Dev,1,0,Low,Undergraduate,3,9,Just exploring,0,0.0
+L0953,Referral,Cyber Security,1,0,Low,Graduate,2,14,Mildly interested,0,0.0
+L0954,Instagram,Web Dev,1,1,Low,Undergraduate,3,2,Mildly interested,0,7.5
+L0955,Facebook,MBA,0,0,Low,Graduate,3,11,Not interested,0,0.0
+L0956,Facebook,MBA,0,0,Medium,Graduate,1,2,Mildly interested,0,0.0
+L0957,Instagram,MBA,1,0,Medium,Undergraduate,1,7,Mildly interested,0,0.0
+L0958,Instagram,Data Science,1,0,Medium,Undergraduate,1,2,Very interested,0,0.0
+L0959,Website,MBA,1,0,Medium,Undergraduate,2,10,Just exploring,0,0.0
+L0960,Facebook,Cyber Security,0,0,Medium,Postgraduate,3,8,Very interested,0,0.0
+L0961,Referral,Web Dev,1,1,Low,Graduate,2,6,Very interested,0,9.5
+L0962,Google Ads,AI,1,0,Low,Graduate,2,14,Mildly interested,0,0.0
+L0963,Google Ads,Cyber Security,1,0,Low,Undergraduate,1,7,Very interested,0,0.0
+L0964,Instagram,Cyber Security,1,1,Medium,Graduate,3,7,Mildly interested,0,0.0
+L0965,Website,MBA,1,0,Low,Postgraduate,3,6,Very interested,0,0.0
+L0966,Google Ads,Data Science,1,0,Low,Postgraduate,1,10,Mildly interested,0,0.0
+L0967,Facebook,Web Dev,0,1,Medium,Graduate,2,11,Very interested,0,0.0
+L0968,Instagram,Data Science,1,0,High,Undergraduate,1,9,Very interested,0,0.0
+L0969,Referral,Web Dev,0,0,Low,Undergraduate,2,13,Very interested,0,0.0
+L0970,Instagram,Web Dev,1,0,Medium,Undergraduate,2,9,Not interested,0,0.0
+L0971,Referral,Data Science,1,0,Medium,Undergraduate,1,7,Just exploring,0,0.0
+L0972,Instagram,Cyber Security,0,1,Medium,Undergraduate,2,9,Very interested,0,0.0
+L0973,Instagram,Web Dev,0,1,High,Undergraduate,2,13,Just exploring,0,0.0
+L0974,Instagram,Data Science,0,0,Low,Undergraduate,2,10,Mildly interested,0,0.0
+L0975,Referral,Web Dev,1,1,Low,Postgraduate,2,3,Not interested,0,12.0
+L0976,Referral,AI,1,1,High,Graduate,1,3,Mildly interested,1,79.0
+L0977,Instagram,Cyber Security,0,0,Medium,Postgraduate,2,1,Mildly interested,0,0.0
+L0978,Google Ads,MBA,1,1,Medium,Graduate,2,5,Very interested,1,68.0
+L0979,Website,Web Dev,1,0,Medium,Undergraduate,2,4,Mildly interested,0,0.5
+L0980,Website,AI,0,0,Medium,Graduate,1,2,Not interested,0,0.0
+L0981,Website,MBA,0,0,High,Undergraduate,2,9,Mildly interested,0,0.0
+L0982,Referral,MBA,1,0,High,Graduate,3,3,Very interested,0,2.0
+L0983,Referral,Web Dev,1,0,Medium,Undergraduate,1,8,Very interested,0,0.0
+L0984,Google Ads,Data Science,1,1,Low,Postgraduate,2,6,Just exploring,0,0.0
+L0985,Website,Web Dev,0,0,High,Undergraduate,1,14,Mildly interested,0,0.0
+L0986,Website,AI,0,0,Low,Undergraduate,2,13,Mildly interested,0,0.0
+L0987,Instagram,MBA,1,0,Low,Postgraduate,1,5,Not interested,0,0.5
+L0988,Referral,Web Dev,0,1,High,Undergraduate,2,1,Very interested,0,0.5
+L0989,Website,Data Science,0,1,Low,Graduate,2,4,Mildly interested,0,0.5
+L0990,Google Ads,Web Dev,0,1,Low,Graduate,2,3,Not interested,0,0.5
+L0991,Google Ads,Cyber Security,1,1,Low,Postgraduate,2,1,Mildly interested,0,11.0
+L0992,Website,Data Science,1,1,High,Postgraduate,2,12,Very interested,0,0.5
+L0993,Referral,AI,1,0,Medium,Postgraduate,2,5,Mildly interested,0,0.0
+L0994,Google Ads,MBA,1,1,Medium,Undergraduate,1,6,Just exploring,0,11.0
+L0995,Instagram,Web Dev,0,1,Low,Postgraduate,1,2,Very interested,0,0.5
+L0996,Google Ads,Data Science,1,1,Medium,Graduate,3,14,Not interested,0,0.0
+L0997,Facebook,Cyber Security,0,1,Medium,Graduate,1,3,Just exploring,0,0.5
+L0998,Facebook,Data Science,1,0,Medium,Undergraduate,2,11,Very interested,0,0.0
+L0999,Referral,Cyber Security,1,0,Medium,Graduate,3,14,Just exploring,0,0.0
+L1000,Website,AI,1,0,Low,Postgraduate,1,6,Mildly interested,0,0.5
